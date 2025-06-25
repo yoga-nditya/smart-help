@@ -1,0 +1,5767 @@
+{
+  "Total": 640,
+  "tenantDatas": [
+    {
+      "TenantName": "Yoshinoya",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Hokben",
+      "Description": "samping escalator dan di samping solaria",
+      "Floor": "Lower Ground",
+      "Unit": "LG-82",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Watsons",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG 91-92",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kentucky Fried Chicken",
+      "Description": "atau bisa di panggil dengan kfc yang berada di Food Avenue.",
+      "Floor": "L1",
+      "Unit": "Food Avenue",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Imperial Kitchen & Dimsum",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-06",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "May May Salon",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-02",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Naughty",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-21",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Rockstar Gym",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-B-01",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Fitness & Gym",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidzooona",
+      "Description": null,
+      "Floor": "2nd Floor, LG",
+      "Unit": "L2-72, LG-36",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Handcrafter",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22F",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Guardian",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-97",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Giordano",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-69",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Tous les Jours",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-53",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sate Khas Senayan",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-96",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Erafone",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-71",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mothercare",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-75-77",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Fonel",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-81",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Starbucks",
+      "Description": "GF-01",
+      "Floor": "GF",
+      "Unit": "01",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Starbucks",
+      "Description": "GF-26",
+      "Floor": "GF",
+      "Unit": "26",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ramen Ya",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-08",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Electronic City",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-101",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "H&M",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-51",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Ibox",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-16",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Decathlon",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-89",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Sports Equipments",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Manzone",
+      "Description": null,
+      "Floor": "l1",
+      "Unit": "L1-33",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Colorbox",
+      "Description": null,
+      "Floor": "1F",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "et cetera",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "The Executive",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-09",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Djournal Coffee",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-01A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Burger King",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-83",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Cold Stone Creamery",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K12",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Krispy Kreme",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K06",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bershka",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-89",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Birkenstock",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-27",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Cotton On",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-31",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Lacoste",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-03",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Marks & Spencer",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-87",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Payless",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-78",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Pull & Bear",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-16",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Rubi",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-20",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Samsonite",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-30",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Staccato",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-38",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Stradivarius",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-85",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Swatch",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-02",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Zara",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-06",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Converse",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-25",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "New Balance",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-23",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Puma",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-123",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Skechers",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-29",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Sports Station",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-STO-06",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-15",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-15",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (GF Bundaran A2)",
+      "Floor": "GF",
+      "Unit": "GF Bundaran A2",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (GF Main Lobby 2)",
+      "Floor": "GF",
+      "Unit": "GF Main Lobby 2",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (Ralling GF & UG)",
+      "Floor": "GF,UG",
+      "Unit": "Ralling GF & UG",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (GF Main Atrium 2)",
+      "Floor": "GF",
+      "Unit": "GF Main Atrium 2",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (GF Atrium 2 depan Bershka)",
+      "Floor": "GF",
+      "Unit": "GF Atrium 2 depan Bershka",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (UG Stradivarius)",
+      "Floor": "UG",
+      "Unit": "UG Stradivarius",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (LG depan Foodhall)",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (UG Atrium 3)",
+      "Floor": "UG",
+      "Unit": "UG Atrium 1",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SOGO",
+      "Description": "Casual Leasing (LG depan Lock&Lock)",
+      "Floor": "LG",
+      "Unit": "LG depan Lock&Lock",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidz Station",
+      "Description": "\"World of Diecast\" 14-27 October 202",
+      "Floor": "GF",
+      "Unit": "Atrium 1",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidz Station",
+      "Description": "Event Lego Pameran 9-26 November 2023",
+      "Floor": "GF",
+      "Unit": "Atrium 2",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidz Station",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidz Station",
+      "Description": "Event Lego Ramadan 7 Mar - 6 Apr 2025",
+      "Floor": "Atrium 2",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidz Station",
+      "Description": "Event Marcomm Hot Whells 08 - 27 April 2025",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KOI The",
+      "Description": "GF-66",
+      "Floor": "GF",
+      "Unit": "GF-66",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Francis Artisan Bakery",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-35",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ixobox",
+      "Description": null,
+      "Floor": "Basement",
+      "Unit": "B-11",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Erha Apothecary",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-67,68",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Miniapolis",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-B-02",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Marugame Udon",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-112",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Xiaomi",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-56",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Hypermart",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-01-HPM",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Hyper/Supermarket",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Vans",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "LC Waikiki",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-50",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Auntie Anne's",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K10",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Auntie Anne's",
+      "Description": "Food Avenue",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Minizoo",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "T-01",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nanny's Pavilion",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-09A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kimukatsu",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-156",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Shaburi & Kintan Buffet",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Pepper Lunch",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Pepper Lunch",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-116",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Sour Sally",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-02B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Coconut Island",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-91",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Thai Street",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-109",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Thailand"
+    },
+    {
+      "TenantName": "Fritato",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "0T-02G",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Seribu Rasa",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-12&15",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Chop Buntut Cak Yo",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-52",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Raa Cha Suki & BBQ",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "60",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Thailand"
+    },
+    {
+      "TenantName": "Gokana Ramen & Teppan",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-60",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Wingstop",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-09 D",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kopi Kenangan",
+      "Description": "GF-25A",
+      "Floor": "Ground Floor",
+      "Unit": "GF-25A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kopi Kenangan",
+      "Description": "LG-115A",
+      "Floor": "LG",
+      "Unit": "115A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Seroeni",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-97",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Ta Wan",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-11",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Dapur Solo",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-101",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Christopher Salon",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-16&17",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bath & Body Works",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-78",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Victoria Secret",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-80",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Puyo",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K-53",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nature Republic",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-89",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Scoop",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-58",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Bookstore & Stationaries",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Warna",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-30",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "GoWork",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-101",
+      "MainCategory": "Services",
+      "SecondCategory": "CoWorking Space",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kay Collection",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-56",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Com Ngon",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-68",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Vietnamese"
+    },
+    {
+      "TenantName": "Solaria",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-81B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Uniqlo",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-36",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Fitness First",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-62",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Fitness & Gym",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toys Kingdom",
+      "Description": "Event Super Special Sale | 16 - 28 April 2024",
+      "Floor": "GF",
+      "Unit": "Atrium 2",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toys Kingdom",
+      "Description": "Event Marcomm | Zoophoria 15 Maret - 14 April 2024",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toys Kingdom",
+      "Description": "Event CL | Periode 25 Maret 2024 - 14 April 2024",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toys Kingdom",
+      "Description": "Mattel Ramadan",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toys Kingdom",
+      "Description": "Pameran CL 13 Januari - 16 Februari 2025",
+      "Floor": "LG",
+      "Unit": "G Atrium Takeshita",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chatime",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-79",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Owndays",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-18",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Amazone",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "A&W Restaurants",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-59",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Aneka Citra Snack",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K07B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Baso A Fung",
+      "Description": "Food Avenue",
+      "Floor": "1F",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "The Little Thing She Needs",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-51",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Ban Ban",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-IA11",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bariuma Ramen",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-98",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Baskin Robbins",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K08",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Batik Keris",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-23",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Eprise",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-80",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Hush Puppies",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-31",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Max Fashions",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-53",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Obermain",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-27",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Parang Kencana",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-60",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Polo Ralph Lauren",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-79",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "This Is April",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1 - 51",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Valino",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-70",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Bornga",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-53&55",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Guess Accessories",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-19",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Stroberi Accessories",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-31",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Charles & Keith",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-71",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Adidas Homecourt",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-16",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Aldo",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-21",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Crocs",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-90",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Everbest",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-27",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Melissa Shoes",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-68",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "My Feet",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-60",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "New Era",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-15",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Panama",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K08",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Urban & Co",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-67",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Wakai",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-61",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Arena",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-38",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Wacoal",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-78",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Lingeries"
+    },
+    {
+      "TenantName": "Adelle Jewellery",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-28",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Gold"
+    },
+    {
+      "TenantName": "Frank & Co",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-35",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "Optik Melawai",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-11",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ooppa",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-37",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Optik Seis",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-83",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Watch Engine",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-10",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Watch Co",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-25B",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Watch Studio",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-28",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "C&F Perfumery",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-67",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Glam On",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-66",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Holika Holika",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-88",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "L'Occitane",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-53",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Natural Farm",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-52",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sociolla",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K01",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sociolla",
+      "Description": "LG",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Body Shop",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-62",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Nail Shop",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-103A",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Yves Rocher",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-63",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chateraise",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-1A-12",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chicago Popcorn",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chicago Popcorn",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-02B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dairy Queen",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K11",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dorayaki Addict",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-03B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Famous Amos",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-09C",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Food Avenue",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-68",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Gindaco",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-79",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Golden Lamian",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Gyu-Kaku",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-17",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Haagen Dazs",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-IA-16",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Hokkaido Baked Cheese Tart",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-08B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ichiro Ramen",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-55",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Kafe Betawi",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-20",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Kkuldak",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Maxx Coffee",
+      "Description": "MAXX COFFEE | GF-77",
+      "Floor": "GF",
+      "Unit": "GF-77",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Maxx Coffee",
+      "Description": "MAXX COFFEE | GF-95",
+      "Floor": "GF",
+      "Unit": "GF-95",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Momoiro",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-1A-06",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "PappaJack",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-09",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Malay/Singapore"
+    },
+    {
+      "TenantName": "Pho Street",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-10",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Provence",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-158",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Rejuve",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K11B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Roti Boy",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-22TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Shihlin Taiwan Street Snacks",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-73A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Simply",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-03A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sop Ikan Batam",
+      "Description": "Food Avenue",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Steak 21",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-95",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Suan Thai",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-16",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Thailand"
+    },
+    {
+      "TenantName": "Sukiya",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-10",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Sushi Go",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-127",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Sushi Hiro",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-09B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "The Duck King",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-03",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "The Garden",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-55",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Toby's Estate",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-63, GF-63 OS, GF-63 S/A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Timezone",
+      "Description": "UG-100, UG-101, UG-97, UG-98, UG-99, UG-K-102",
+      "Floor": "UG",
+      "Unit": "UG 97-103",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Timezone",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-07",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Element Family Fun",
+      "Description": "d/h Tropical Land",
+      "Floor": "Lower Ground",
+      "Unit": "LG-152",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Browhous",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22D",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Cell Science",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-09",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Oriskin",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-66B",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pure Laser Clinic",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-05",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Arts Dental Care",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-02",
+      "MainCategory": "Services",
+      "SecondCategory": "Dentist",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Meiso Reflexology",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-28",
+      "MainCategory": "Services",
+      "SecondCategory": "Massage",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nano Healthy Family",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-R01",
+      "MainCategory": "Services",
+      "SecondCategory": "Massage",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Century Healthcare",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-69",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kiddy Cuts",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-55",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kaizen Barbershop",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-15",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Paxi Barbershop",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22I",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dwidaya Tour",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2- 36",
+      "MainCategory": "Services",
+      "SecondCategory": "Tour & Travel",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Golden Rama",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-11",
+      "MainCategory": "Services",
+      "SecondCategory": "Tour & Travel",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bank Nobu",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-96",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bank Mandiri",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-R11",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Global Art",
+      "Description": null,
+      "Floor": "BS",
+      "Unit": "B-15A",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "English First",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-67C",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "Sempoa Sip",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-15",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "Vines",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-107",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": "Wine"
+    },
+    {
+      "TenantName": "Stop N Go",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-76A",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Lock & Lock",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-90",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hardware",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mr DIY",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-32",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hardware",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Huawei Experience Store",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-82",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Urban Life",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-77",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dr Gadget",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K09",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Eraplus",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-85",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Loly Poly",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1 - K - 51",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Oppo",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-25",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Playworks",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-73",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Point 2000",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-60",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GS Shop",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-70",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gramedia",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-93",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Bookstore & Stationaries",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pigeon",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-57",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Others Merchandise",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Tammia",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-22",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Others Merchandise",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ranch Market",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-117",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Hyper/Supermarket",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-57",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing",
+      "Floor": "L1-L2",
+      "Unit": null,
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (LG depan Lock&Lock)",
+      "Floor": "LG",
+      "Unit": "LG depan Lock&Lock",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (LG Atrium Takeshita)",
+      "Floor": "LG",
+      "Unit": "LG Atrium Takeshita",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (GF Atrium 1 depan C&F)",
+      "Floor": "GF",
+      "Unit": "GF Atrium 1 depan C&F",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (GF Atrium 1 depan Hush Puppies)",
+      "Floor": "GF",
+      "Unit": "GF Atrium 1 depan Hush Puppies",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (GF Main Lobby 1 depan Papparich)",
+      "Floor": "GF",
+      "Unit": "GF Main Lobby 1 depan Papparich",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (UG depan Cotton On)",
+      "Floor": "UG",
+      "Unit": "UG depan Cotton On",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Matahari Department Store",
+      "Description": "Casual Leasing (UG Atrium 3)",
+      "Floor": "UG",
+      "Unit": "UG Atrium 1",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Department Store",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bridges Eyewear",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-20",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "4 Fingers",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-76A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Palace",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-33",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "Grebe",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "1- 66B",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Saturdays",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-76",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Recharge",
+      "Description": "Joint Promo LMI",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Montato",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-11TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SKIN+",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-03",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Makuku Family",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-72",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Asus Store",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-63",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ataru",
+      "Description": "event CL 19 Mei - 8 Juni 2025",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "BABY BAR",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-10B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Baka Baka Beef",
+      "Description": "Coffee Walk",
+      "Floor": "GF",
+      "Unit": "0T-02E",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bakmi Gili",
+      "Description": "Food Avenue",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Bakmitopia",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-108",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Banila Co.",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-59",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BATHAHOLIC",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K-51",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BIEKOOBEE",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K-09A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Brexit",
+      "Description": null,
+      "Floor": "Basement",
+      "Unit": "B-10",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Caramello Shop",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22B",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Carl & Claire",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-09B",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CETAK PHOTO",
+      "Description": null,
+      "Floor": "Basement",
+      "Unit": "B-9",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CHOCOCHIPS",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1- 28",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Coco Time",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-05B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "DANDIS BEAUTY CARE",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-26",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "DAYTRANS",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-26A",
+      "MainCategory": "Services",
+      "SecondCategory": "Transportation",
+      "Tagging": null
+    },
+    {
+      "TenantName": "D'Crepes",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-IA-11D",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "De Sound",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-62",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dragon Hot Pot",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-53",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "DressUp Laundry & Perla",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22J",
+      "MainCategory": "Services",
+      "SecondCategory": "Laundry",
+      "Tagging": null
+    },
+    {
+      "TenantName": "DYSON",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-AT (01gl-01gk)",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ewan Pao",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-08A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Favor Party Supplies",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-121",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Others Merchandise",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Fire Tiger",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-82A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "First Love Patisserie",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GEREJA BETHEL INDONESIA",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-103C",
+      "MainCategory": "Services",
+      "SecondCategory": "Church",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GENKI SUSHI",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "GNC LIVE WELL",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-81A",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CASIO STORE",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-82A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "H&M KIDS",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-38",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Havaianas",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K-09D",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Hong Kong Shengkee Dessert",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-18",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "iEye",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-39",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Optical",
+      "Tagging": null
+    },
+    {
+      "TenantName": "iDecor",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-36",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Innisfree",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-21",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ippudo Ramen",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-157",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Jack & John",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-73B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Jin Mu",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-103",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "K3 MART",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-86",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Minimart",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kedai Si Mbok",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Keds",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-87",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "KKV",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-85",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LA DIANA",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-05",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Lace Lynelle",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K07",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "LAPIS LAPIS",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-01A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LIANG SANDWICH BAR",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-09B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Lighthouse",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-10A",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Llaollao",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K07",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LOVE BONITO",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-66",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Lukumades",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-67A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Make Over",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-92",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mama Roz",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-K01",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MEDIA KOMPUTINDO",
+      "Description": null,
+      "Floor": "Basement",
+      "Unit": "B-5",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MINISO",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-26",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Moscato",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-30",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Mr.Dakgalbi",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-70",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "MUTIARA RESTAURANT",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-02A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "NIKE",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-88",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Nine Worlds",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K-09F",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "Obaja Tour",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-21A",
+      "MainCategory": "Services",
+      "SecondCategory": "Tour & Travel",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Our Daily Dose",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-12",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Onnie Studio",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22C",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pain Relief Clinic",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-10",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pancious",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-115",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Panorama JTB Tours",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-120",
+      "MainCategory": "Services",
+      "SecondCategory": "Tour & Travel",
+      "Tagging": null
+    },
+    {
+      "TenantName": "PERIPERA",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-62",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Playtopia",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-23A",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pouffie",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-96A",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "R&B Tea",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K02",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Reddog",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-66C",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Samjin Amook",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-72",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "SAMSAT Corner",
+      "Description": null,
+      "Floor": "Basement",
+      "Unit": "B-2",
+      "MainCategory": "Services",
+      "SecondCategory": "Public Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sony",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-19",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "STEAK HOTEL BY HOLYCOW!",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-29",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Steve Madden",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-91",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Studio T Salon",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-12",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Surface Skin Habit",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-25",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Spotless Club",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-01S",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "TIKTOK WATCH",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-82",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Urban Republic",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-07",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Vionic",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K-08",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Warung Leko",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-19",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Xing Fu Tang",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-IA-11B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ya Kun Kaya Toast",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-83",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Malay/Singapore"
+    },
+    {
+      "TenantName": "Yakiniku Like",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-111",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Abura Soba Yamatoten",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-11",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Zenbu",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-155A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Zojirushi",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-37",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "OSIM",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "99",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Health Equipments",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM BCA",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "ATM-LG #C-06",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "TONI&GUY",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-01",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM MANDIRI",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "ATM-LG-B-06",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM PERMATA",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "ATM-LG-B #01",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CINEMA XXI",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-08",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Cinema",
+      "Tagging": null
+    },
+    {
+      "TenantName": "THE FOOD HALL",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-31",
+      "MainCategory": "Major Stores & Supermarket",
+      "SecondCategory": "Hyper/Supermarket",
+      "Tagging": null
+    },
+    {
+      "TenantName": "YONG TAU FU",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "FitPlus",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-87",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Health Equipments",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KLIKNKLIK",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "IRWAN TEAM HAIR DESIGN",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-102 M",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Samsung Experience Store",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-17",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CLARKS SHOES",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-22",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "BOSE",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "61",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM CIMB NIAGA",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "ATM-LG-B-03",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM PANIN",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "ATM-LG-B #02",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BEARD PAPA'S",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-81A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sancha Tea",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-02C",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "D'PARIS",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K-6B",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Purwa Caraka Music Studio & Kopiano",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "59",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "WAXHAUS",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-30",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ATM OCBC NISP",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "ATM-LG-C#15",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "POLO",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-87",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "POLO",
+      "Description": "POLO - A1 - Periode 10-23 Juni 2024",
+      "Floor": "GF",
+      "Unit": "GF-AT-01ga",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "BABY SHOP",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-53A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Extention Fun Word",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "K15",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LEGO",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-50,51",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CIMB NIAGA DIGITAL LOUNGE",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-12",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "YUAN MARKET",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-81",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Retrocut Barbershop",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-79C",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MihiMihi",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Cotton Ink",
+      "Description": "Lippo Mall Puri",
+      "Floor": "1st Floor",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Bakmi Gocit",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Boost Juice",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-IA-11A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Wee Nam Kee",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-12, LG-12 O/S",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Super Furry",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": "L2-83A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ADIDAS Originals - Navya Retail",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-16",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Adidas Neighborhood",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-17",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "ATM BANK NOBU",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-ATM-01",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bale Lombok",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-93",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "ZUMA",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-09C",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Nespresso",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-STO-05",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MUTIARA SAKTI",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22E",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Rempah Bistro",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-109",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Kemayu",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": "UG-K-08B",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Yogost",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-08C",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pandora Experience",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-68",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LUMI Facial Care",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-22H",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Hyundai Motor",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-38",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Automotive",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Biggby Coffee",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-82, GF-82 O/S",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "CK Education",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-7, B-8",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "Say Chiizu",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-10TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kidddyworld",
+      "Description": "Event CL 2023",
+      "Floor": "L2",
+      "Unit": "--",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Vandalz",
+      "Description": null,
+      "Floor": "1st Floor",
+      "Unit": "L1-K-03A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Roona",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-61",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ALASH STUDIO",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-22G",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Auto Clean Waterless",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-J-26",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bee Crepes",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BIJIN NABE",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-99&100",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Boost",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "K02A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Cindy",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-39",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "CINNABON",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-109",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Esteboo",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Founder Bak Kut Teh",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-95",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "HAPPY LEMON",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "K02A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Holycow Steakhouse",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-29",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "JD Sports",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-119, GF-120, GF-121, GF-122, GF-37",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Joe & Dough",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-93",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kappa Sushi",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-01A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "MANEKINEKO",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-B-02",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Karaoke",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Lino & Sons",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "GF-29",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "M7 Tactical",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-75",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MARCO'S CHOP SHOP",
+      "Description": null,
+      "Floor": "2F",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "MOMOKINO",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Poppang",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-09TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Red & White",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Super Wings",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-K-10T",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "VTrend Premium Relaxation",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-01E",
+      "MainCategory": "Services",
+      "SecondCategory": "Massage",
+      "Tagging": null
+    },
+    {
+      "TenantName": "VTrend Premium Relaxation",
+      "Description": "VTrend - L2",
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Massage",
+      "Tagging": null
+    },
+    {
+      "TenantName": "WOOYOO ICE CREAM",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Subway",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-83&85, GF-83&85 O/S",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Coway",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K09",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hardware",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Vyatta",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Edokko",
+      "Description": null,
+      "Floor": "2nd",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "The Self Inc",
+      "Description": null,
+      "Floor": "Lower Ground",
+      "Unit": "LG-96",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Blibli",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-88",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Play & Win",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K-16",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Unit Layanan Paspor",
+      "Description": null,
+      "Floor": "BS",
+      "Unit": "2",
+      "MainCategory": "Services",
+      "SecondCategory": "Public Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "By Aura",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-58",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Foyu",
+      "Description": "Coffewalk",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "WiLD MiLD",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-92",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Fitness & Gym",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Liao Liao",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-00",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gohan-Ku",
+      "Description": "Coffee Walk",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Cheers",
+      "Description": "Coffee Walk",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Wicked Pies",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "K-12A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chickenbir",
+      "Description": "Coffee Walk",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Koi Cafe",
+      "Description": "L1-92",
+      "Floor": "L1",
+      "Unit": "L1-92",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gijeog",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Lastige",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Relix",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "RicaRico",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Roemah Djamoe",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Royce Chocolate",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sweet Coco",
+      "Description": "The Food Hall",
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Chiju",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gado Gado Gang Kancil",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Santong Kuotieh 68",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "SeaGo",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Wafflecious",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Waroeng Teh Kotjok",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nam Heong",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Stulokal",
+      "Description": null,
+      "Floor": "2F",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Foot Locker",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Take Barli",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Looklab",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Moja Photobooth",
+      "Description": null,
+      "Floor": "2F",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Pika Piku",
+      "Description": null,
+      "Floor": "2F",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Rawon (Kantin Warning)",
+      "Description": null,
+      "Floor": "BS",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Jeji Chewy Puff",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "After Friday",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-116",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ohana Dental Clinic",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Dentist",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ocean 8",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Heavenly Wang",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-163",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Malay/Singapore"
+    },
+    {
+      "TenantName": "ZHENGDA",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-155",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "AYAM PENYET BANDUNG",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-06",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KWETIAW SAPI JANGKUNG",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-138",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Yogost x Lonteh",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-08C",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KANTIN MIE AYAM",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-18",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Driver Junior",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K-15",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "PANORAMA",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-120",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Smiggle",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Kantin 88",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-10",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kantin The Anggi",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-15",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kantin Kokom",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-04",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Rawon Ibu Nofy",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-19",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kantin Cooking Mama",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-08",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KANTIN PADANG",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-05",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "KANTIN AYAM PRESTO BU GURU",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-11",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Izakaiyo",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-56",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Madcoco",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Harvest Good",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Feel Matcha",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-09B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kiina Art Studio",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-76B",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "ANAKU EDUCARE",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-13",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "GAMCHI",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-20TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kantin Sehat",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-09",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "HANWHA LIFE",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-97",
+      "MainCategory": "Services",
+      "SecondCategory": "Banking & Financial Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Infinite EO",
+      "Description": "Event CL Puri Daebak (22 Sept - 8 Oktr 2023)",
+      "Floor": "GF",
+      "Unit": "AreaBundaran Atrium 2 dpn Zara",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Leonards Pastry",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-23",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Provaliant (EO)",
+      "Description": "Event CL 9 Juni 2025 - 13 Juli 2025",
+      "Floor": "GF",
+      "Unit": "Bulatan SOGO",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Liven",
+      "Description": null,
+      "Floor": "1F",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Gamchi",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-20TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GBI",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GO!Market (EO)",
+      "Description": "Event CL Loca Rasa (22 September - 1 Oktober 2023)",
+      "Floor": "P3",
+      "Unit": "SkyGarden",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kina Art Studio",
+      "Description": null,
+      "Floor": "2F",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "TOMORO COFFEE",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Milky Way",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Dhype",
+      "Description": null,
+      "Floor": "1F",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Kids & Beyond",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-118",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "King Valet",
+      "Description": "King Valet",
+      "Floor": "G",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Medialink (EO)",
+      "Description": "Casual Leasing",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Medialink (EO)",
+      "Description": "Garfield x Sijuki",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nozawa Bakery Atelier",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-19TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LMP Vendor",
+      "Description": "Vendor Operation for access card usage",
+      "Floor": "Other",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LMP Vendor",
+      "Description": "Vendor Marcomm for access card usage",
+      "Floor": "Other",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LMP Vendor",
+      "Description": "Vendor Fit Out for access card usage",
+      "Floor": "Other",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "LMP Vendor",
+      "Description": "Vendor Casual Leasing for access card usage",
+      "Floor": "Other",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kwetiaw Jangkung",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-138",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Erha Ultimate",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-67",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Oshusan",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Michie",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1 61-62",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Blackmores",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-CO-01m",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Healthy Food",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Success Academy",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-05&06",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "Onelux",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-33A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Holiday Holiday with Tayo & Poli",
+      "Description": "Event Casual Leasing | 12 June - 02 July 2023",
+      "Floor": "GF",
+      "Unit": "Grand Central",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kantin Bu Yuni",
+      "Description": null,
+      "Floor": "B",
+      "Unit": "B-KN-09",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Amazing Express",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K-17",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Tales Of Clara",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-126",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gigi Dental Clinic",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-02",
+      "MainCategory": "Services",
+      "SecondCategory": "Dentist",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Yuire",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-60",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Tiga Production",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-68",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mie Tarik Medan",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-135L",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kobuge",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "K Streat",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Pempek Nusantara",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Bakmi 57",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Bak Kut Teh",
+      "Description": "Food Avenue",
+      "Floor": "L1",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Prize Spot Palo",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-162",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Glamify",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-87",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Glamify",
+      "Description": "Event CL 7 - 13 Agustus 2023",
+      "Floor": "GF",
+      "Unit": "GF Atrium 2 dpn Pull&Bear",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Glamify",
+      "Description": "CL Exhibition | 18 Maret 2024 - 14 April 2024",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Poken Rice",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-139",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Wimpy CraftStore",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-63A",
+      "MainCategory": "Services",
+      "SecondCategory": "Education",
+      "Tagging": "Courses"
+    },
+    {
+      "TenantName": "Fami Cafe",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-IA-02",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Charles Jourdan",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-05",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Watches",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mall",
+      "Description": "Test Brand",
+      "Floor": "GF",
+      "Unit": "GF-01",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Mi Store",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-87",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Cellular",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Flying Tiger",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-31",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Fogo Brazillian BBQ",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-10B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Superamen",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-STO-02",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Sushi-Ya",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-15B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Gion Sushi",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-55",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "YAOYAO",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-110",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Otomotif Honda & Datsun",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-97",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sorcery & Lucielle",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-08A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "Skincara",
+      "Description": "CL Skincara Exhibition (10 Jan 24 - 18 Feb 24)",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Bruhnice",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K-19",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sakumini",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-09",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Others Merchandise",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Puro Clinic",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-10",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Goryeojib",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-71",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Kawara Yakiniku",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-153",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Dust Jeans",
+      "Description": "Event CL | Fomo Dust Jeans 13-26 November 2023",
+      "Floor": "GF",
+      "Unit": "GF Atrium 1",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Thirty Bumbu by Chop Buntut",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF - 116 O/S",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Larusso",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "73",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Larusso",
+      "Description": "Event CL | Game of Thrones 9-22 September 2024",
+      "Floor": "GF",
+      "Unit": "GF Atrium 1",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Jackson Shoes",
+      "Description": "Event CL | Fomo Jackson Shoes 13-26 November 2023",
+      "Floor": "GF",
+      "Unit": "GF Atrium 1",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Fei Duck",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-03",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Don Bakeshop",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-07A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Origani",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-10 A OS",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BugaTea",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-21TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ruang Pelayanan Publik Ditjen Ahu",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-99",
+      "MainCategory": "Services",
+      "SecondCategory": "Public Services",
+      "Tagging": "Imigration"
+    },
+    {
+      "TenantName": "JKT Go Dog Park",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-11 O/S",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BMW Eurokars",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-118",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Automotive",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ebiga",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-166",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Earth",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-65",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Beauty & Pharmacies",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ramen Ya & Sushi Ya",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-15",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Luuca Indonesia",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "K-10TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "One Works Salon",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2 - 79B - L2 - 79C",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Event Zoophoria",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Momo Paradise",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2 - 56 - 58",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Hydra Billiard",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-95",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "HairBrain",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-06",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ayam Geprek Pusaka Abadi",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-136",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Yong Kang TCM",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-16&17",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Hair Brain",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-06",
+      "MainCategory": "Services",
+      "SecondCategory": "Hair Salon",
+      "Tagging": null
+    },
+    {
+      "TenantName": "GANEYA",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-162",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Ikinari Steak",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-129",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sura",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-73, 75)",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Glow and Go",
+      "Description": null,
+      "Floor": " LG",
+      "Unit": "LG-22K",
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sour Sally Green",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-80",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Ortholife",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-k-03",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Health Equipments",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Udders Ice Cream",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-03",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Seven Kingdoms",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-73",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "SpongeBob",
+      "Description": "Event Marcomm 23 Aug - 8 Sept 2024",
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Happippang",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-09TA",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Fujin Beauty",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Services",
+      "SecondCategory": "Health & Beauty Clinic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Macanria",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-02A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Panlandwoo",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-08A",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Photoism",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-63B",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Monster Curry",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-101",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Nitori",
+      "Description": null,
+      "Floor": "l2",
+      "Unit": "L2-21A",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Furniture",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Teazzi",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-02D",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Fish Village",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-127",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Oma Elly",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K15",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Dessert",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sate Babi Ngotot",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-137",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Fastfood",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gabby Doll House | 24 Okt - 3 Nov",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "Atrium 2",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Kuma-Chan Onsen",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-52",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Sushi Roe",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-01D",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Japanese"
+    },
+    {
+      "TenantName": "Kam Roast",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-80",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Azurr",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-118",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Jewellery",
+      "Tagging": "Jewellery"
+    },
+    {
+      "TenantName": "Karofi",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2 - K07",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hardware",
+      "Tagging": null
+    },
+    {
+      "TenantName": "OH!SOME",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-85",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Home Appliances",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Scholl",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-30",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Sports"
+    },
+    {
+      "TenantName": "Nama Donut",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-K-08",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "COS Luxe Bags&Co",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "L1-K-09B",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Kettler & Arena",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-100",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Sports Equipments",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Sillyco",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-K02",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hardware",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Playtopia Sports",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-21B",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "7 Datuak",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-108",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Warung Kuning (Warning)",
+      "Description": null,
+      "Floor": "BS",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Foodcourt",
+      "Tagging": null
+    },
+    {
+      "TenantName": "House of LittleBunny",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "UG-K-09E",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Bags"
+    },
+    {
+      "TenantName": "Mala Kitchen",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG-20A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "Nanyang Dhasifu",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Roomi",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Electronic",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Klesis Bocilos",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Indonesian"
+    },
+    {
+      "TenantName": "Bacon & Sons",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Western",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Hologram Zoo",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Tang Huo Kung Fu Hot Pot",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "L2-81",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Chinese/Taiwan"
+    },
+    {
+      "TenantName": "WakaiGO",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Shoes"
+    },
+    {
+      "TenantName": "Wetzel's Pretzels",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG - 73B",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Devon Cafe",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "GF-68",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Cafe",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Tomorrow World (EO)",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "Atrium 1",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Endorphins",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "63A",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Bakery",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Gulu Jus",
+      "Description": null,
+      "Floor": "LG",
+      "Unit": "LG",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "BNS Hype",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": "Atrium 1",
+      "MainCategory": "General Merchandise",
+      "SecondCategory": "Hobbie/Music/Toys",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Insta factory",
+      "Description": null,
+      "Floor": "L2",
+      "Unit": "66A",
+      "MainCategory": "Services",
+      "SecondCategory": "Other Services",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Yescci",
+      "Description": null,
+      "Floor": "Upper Ground",
+      "Unit": null,
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Clothing"
+    },
+    {
+      "TenantName": "Clash of Collectibles",
+      "Description": null,
+      "Floor": "UG",
+      "Unit": "LG-132",
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Doux Dolce",
+      "Description": null,
+      "Floor": "L1",
+      "Unit": "K-05",
+      "MainCategory": "Fashion",
+      "SecondCategory": "Fashion",
+      "Tagging": "Accesories"
+    },
+    {
+      "TenantName": "Samyukga",
+      "Description": null,
+      "Floor": "Ground Floor",
+      "Unit": "130",
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Restaurant - Asian",
+      "Tagging": "Korean"
+    },
+    {
+      "TenantName": "Megaze Coffee",
+      "Description": null,
+      "Floor": "2nd Floor",
+      "Unit": null,
+      "MainCategory": "Food & Beverages",
+      "SecondCategory": "Snacks & Drinks",
+      "Tagging": null
+    },
+    {
+      "TenantName": "Nickelodeon Playtime",
+      "Description": null,
+      "Floor": "GF",
+      "Unit": null,
+      "MainCategory": "Entertainment & Lifestyles",
+      "SecondCategory": "Entertainment",
+      "Tagging": null
+    }
+  ],
+  "Code": 0,
+  "Message": "Success"
+}

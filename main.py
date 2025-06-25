@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse,HTMLResponse, FileResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.templating import Jinja2Templates
 import speech_recognition as sr
-import difflib
+
 import asyncio
 import json
 from model import *
@@ -14,6 +14,7 @@ import uuid
 import subprocess
 import hashlib
 from datetime import datetime
+from controller import *
 
 client_agent = "0J2V8eVuDdl"
 secretekey_agent = "V42IoWXAas5mdfSole5Q6RJFZHQ7dhci"
@@ -34,43 +35,6 @@ templates = Jinja2Templates(directory="templates")
 rooms = {}          # room_id: [WebSocket, ...]
 room_status = {}    # room_id: "waiting" | "active"
 room_clients = set()
-
-
-with open("tenant_qa.json", "r", encoding="utf-8") as f:
-    qa_data = json.load(f)
-all_questions = [item["question"] for item in qa_data]
-
-def is_valid_signature_v2(client_key: str, signature_key: str, requesttimestamp: str) -> bool:
-    try:
-        # Pastikan client dikenal        
-        signature_key_db = get_user_key(client_key)
-        if signature_key_db == False:
-            return False
-
-        # Validasi timestamp tidak lebih dari 5 menit
-        ts = datetime.strptime(requesttimestamp, "%Y%m%d%H%M")
-        print(ts)
-        now = datetime.now()
-        if abs((now - ts).total_seconds()) > 300:
-            print("⏱️ requesttimestamp terlalu lama atau belum waktunya")
-            return False
-        
-        # Hitung SHA512(timestamp + clientsecret)
-        raw = f"{requesttimestamp}{signature_key_db}".encode("utf-8")
-        print(raw)
-        expected_signature = hashlib.sha512(raw).hexdigest().lower()
-        print(expected_signature)
-        print(signature_key)
-        if expected_signature == signature_key.lower():
-            print("cocok")
-            return True
-        else:
-            print("❌ Signature tidak cocok")
-            return False
-
-    except Exception as e:
-        print(f"❌ Error validasi signature: {e}")
-        return False
 
 @app.websocket("/ws/available-rooms")
 async def available_rooms_ws(
@@ -207,13 +171,6 @@ async def monitor_status(websocket: WebSocket):
         print(f"Monitor error: {e}")
         await websocket.close()
 
-def find_best_answer(user_question):
-    match = difflib.get_close_matches(user_question, all_questions, n=1, cutoff=0.5)
-    if match:
-        for item in qa_data:
-            if item["question"] == match[0]:
-                return item["answer"]
-    return "Maaf, saya tidak menemukan jawaban yang cocok."
 
 @app.get("/", response_class=HTMLResponse)
 async def index(request: Request):
@@ -226,7 +183,9 @@ async def get_sendtext (text : str,client_key: str = Header(..., alias="client-k
     if not is_valid_signature_v2(client_key, signature_key, requesttimestamp):
         return JSONResponse(status_code=403, content={"code": 1, "answer": "Unauthorized"})
     try:
-        answer = find_best_answer(text)
+        tenant_data = load_tenant_data_from_api()
+        corpus, metadata = build_corpus(tenant_data)
+        answer = jawab_pertanyaan(text, corpus, metadata, model)
         return JSONResponse({"code": 0 ,"answer": answer})
     except Exception as e:
         return JSONResponse({"code": 1 ,"answer": str(e)})

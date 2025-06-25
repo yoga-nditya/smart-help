@@ -6,3 +6,6 @@ speechrecognition
 gtts
 aiofiles
 pydub
+sentence-transformers
+torch
+requests
