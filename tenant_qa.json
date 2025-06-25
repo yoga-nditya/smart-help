@@ -1,0 +1,2538 @@
+[
+  {
+    "question": "Di mana lokasi Yoshinoya?",
+    "answer": "Yoshinoya berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Hokben?",
+    "answer": "Hokben berada di lantai Lower Ground, unit LG-82."
+  },
+  {
+    "question": "Kalau Hokben?",
+    "answer": "Hokben berada di lantai Lower Ground, unit LG-82."
+  },
+  {
+    "question": "Di mana lokasi Watsons?",
+    "answer": "Watsons berada di lantai LG, unit LG 91-92."
+  },
+  {
+    "question": "Di mana lokasi Kentucky Fried Chicken?",
+    "answer": "Kentucky Fried Chicken berada di lantai L1, unit Food Avenue."
+  },
+  {
+    "question": "Di mana lokasi Imperial Kitchen & Dimsum?",
+    "answer": "Imperial Kitchen & Dimsum berada di lantai Lower Ground, unit LG-06."
+  },
+  {
+    "question": "Di mana lokasi May May Salon?",
+    "answer": "May May Salon berada di lantai 2nd Floor, unit L2-02."
+  },
+  {
+    "question": "Di mana lokasi Naughty?",
+    "answer": "Naughty berada di lantai L1, unit L1-21."
+  },
+  {
+    "question": "Di mana lokasi Rockstar Gym?",
+    "answer": "Rockstar Gym berada di lantai Lower Ground, unit LG-B-01."
+  },
+  {
+    "question": "Di mana lokasi Kidzooona?",
+    "answer": "Kidzooona berada di lantai 2nd Floor, LG, unit L2-72, LG-36."
+  },
+  {
+    "question": "Di mana lokasi Handcrafter?",
+    "answer": "Handcrafter berada di lantai Lower Ground, unit LG-22F."
+  },
+  {
+    "question": "Di mana lokasi Guardian?",
+    "answer": "Guardian berada di lantai Lower Ground, unit LG-97."
+  },
+  {
+    "question": "Di mana lokasi Giordano?",
+    "answer": "Giordano berada di lantai Upper Ground, unit UG-69."
+  },
+  {
+    "question": "Di mana lokasi Tous les Jours?",
+    "answer": "Tous les Jours berada di lantai Ground Floor, unit GF-53."
+  },
+  {
+    "question": "Di mana lokasi Sate Khas Senayan?",
+    "answer": "Sate Khas Senayan berada di lantai 1st Floor, unit L1-96."
+  },
+  {
+    "question": "Di mana lokasi Erafone?",
+    "answer": "Erafone berada di lantai 1st Floor, unit L1-71."
+  },
+  {
+    "question": "Di mana lokasi Mothercare?",
+    "answer": "Mothercare berada di lantai UG, unit UG-75-77."
+  },
+  {
+    "question": "Di mana lokasi Fonel?",
+    "answer": "Fonel berada di lantai L1, unit L1-81."
+  },
+  {
+    "question": "Di mana lokasi Starbucks?",
+    "answer": "Starbucks berada di lantai GF, unit 1."
+  },
+  {
+    "question": "Di mana lokasi Starbucks?",
+    "answer": "Starbucks berada di lantai GF, unit 26."
+  },
+  {
+    "question": "Di mana lokasi Ramen Ya?",
+    "answer": "Ramen Ya berada di lantai LG, unit LG-08."
+  },
+  {
+    "question": "Di mana lokasi Electronic City?",
+    "answer": "Electronic City berada di lantai Lower Ground, unit LG-101."
+  },
+  {
+    "question": "Di mana lokasi H&M?",
+    "answer": "H&M berada di lantai Upper Ground, unit UG-51."
+  },
+  {
+    "question": "Di mana lokasi Ibox?",
+    "answer": "Ibox berada di lantai 1st Floor, unit L1-16."
+  },
+  {
+    "question": "Di mana lokasi Decathlon?",
+    "answer": "Decathlon berada di lantai L1, unit L1-89."
+  },
+  {
+    "question": "Di mana lokasi Manzone?",
+    "answer": "Manzone berada di lantai l1, unit L1-33."
+  },
+  {
+    "question": "Di mana lokasi Colorbox?",
+    "answer": "Colorbox berada di lantai 1F."
+  },
+  {
+    "question": "Di mana lokasi et cetera?",
+    "answer": "et cetera berada di lantai UG."
+  },
+  {
+    "question": "Di mana lokasi The Executive?",
+    "answer": "The Executive berada di lantai Upper Ground, unit UG-09."
+  },
+  {
+    "question": "Di mana lokasi Djournal Coffee?",
+    "answer": "Djournal Coffee berada di lantai Ground Floor, unit GF-01A."
+  },
+  {
+    "question": "Di mana lokasi Burger King?",
+    "answer": "Burger King berada di lantai L1, unit L1-83."
+  },
+  {
+    "question": "Di mana lokasi Cold Stone Creamery?",
+    "answer": "Cold Stone Creamery berada di lantai Lower Ground, unit LG-K12."
+  },
+  {
+    "question": "Di mana lokasi Krispy Kreme?",
+    "answer": "Krispy Kreme berada di lantai Lower Ground, unit LG-K06."
+  },
+  {
+    "question": "Di mana lokasi Bershka?",
+    "answer": "Bershka berada di lantai Ground Floor, unit GF-89."
+  },
+  {
+    "question": "Di mana lokasi Birkenstock?",
+    "answer": "Birkenstock berada di lantai Upper Ground, unit UG-27."
+  },
+  {
+    "question": "Di mana lokasi Cotton On?",
+    "answer": "Cotton On berada di lantai Upper Ground, unit UG-31."
+  },
+  {
+    "question": "Di mana lokasi Lacoste?",
+    "answer": "Lacoste berada di lantai Ground Floor, unit GF-03."
+  },
+  {
+    "question": "Di mana lokasi Marks & Spencer?",
+    "answer": "Marks & Spencer berada di lantai Upper Ground, unit UG-87."
+  },
+  {
+    "question": "Di mana lokasi Payless?",
+    "answer": "Payless berada di lantai 1st Floor, unit L1-78."
+  },
+  {
+    "question": "Di mana lokasi Pull & Bear?",
+    "answer": "Pull & Bear berada di lantai Ground Floor, unit GF-16."
+  },
+  {
+    "question": "Di mana lokasi Rubi?",
+    "answer": "Rubi berada di lantai UG, unit UG-20."
+  },
+  {
+    "question": "Di mana lokasi Samsonite?",
+    "answer": "Samsonite berada di lantai Ground Floor, unit GF-30."
+  },
+  {
+    "question": "Di mana lokasi Staccato?",
+    "answer": "Staccato berada di lantai Upper Ground, unit UG-38."
+  },
+  {
+    "question": "Di mana lokasi Stradivarius?",
+    "answer": "Stradivarius berada di lantai Upper Ground, unit UG-85."
+  },
+  {
+    "question": "Di mana lokasi Swatch?",
+    "answer": "Swatch berada di lantai Ground Floor, unit GF-02."
+  },
+  {
+    "question": "Di mana lokasi Zara?",
+    "answer": "Zara berada di lantai Ground Floor, unit GF-06."
+  },
+  {
+    "question": "Di mana lokasi Converse?",
+    "answer": "Converse berada di lantai Ground Floor, unit GF-25."
+  },
+  {
+    "question": "Di mana lokasi New Balance?",
+    "answer": "New Balance berada di lantai Ground Floor, unit GF-23."
+  },
+  {
+    "question": "Di mana lokasi Puma?",
+    "answer": "Puma berada di lantai GF, unit GF-123."
+  },
+  {
+    "question": "Di mana lokasi Skechers?",
+    "answer": "Skechers berada di lantai Upper Ground, unit UG-29."
+  },
+  {
+    "question": "Di mana lokasi Sports Station?",
+    "answer": "Sports Station berada di lantai Upper Ground, unit UG-STO-06."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF-15."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF-15."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF Bundaran A2."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF Main Lobby 2."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF,UG, unit Ralling GF & UG."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF Main Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai GF, unit GF Atrium 2 depan Bershka."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai UG, unit UG Stradivarius."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai UG, unit UG Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi SOGO?",
+    "answer": "SOGO berada di lantai LG, unit LG depan Lock&Lock."
+  },
+  {
+    "question": "Di mana lokasi Kidz Station?",
+    "answer": "Kidz Station berada di lantai GF, unit Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Kidz Station?",
+    "answer": "Kidz Station berada di lantai GF, unit Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Kidz Station?",
+    "answer": "Kidz Station berada di lantai L1, unit L1."
+  },
+  {
+    "question": "Di mana lokasi Kidz Station?",
+    "answer": "Kidz Station berada di lantai Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Kidz Station?",
+    "answer": "Kidz Station berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi KOI The?",
+    "answer": "KOI The berada di lantai GF, unit GF-66."
+  },
+  {
+    "question": "Di mana lokasi Francis Artisan Bakery?",
+    "answer": "Francis Artisan Bakery berada di lantai Lower Ground, unit LG-35."
+  },
+  {
+    "question": "Di mana lokasi Ixobox?",
+    "answer": "Ixobox berada di lantai Basement, unit B-11."
+  },
+  {
+    "question": "Di mana lokasi Erha Apothecary?",
+    "answer": "Erha Apothecary berada di lantai LG, unit LG-67,68."
+  },
+  {
+    "question": "Di mana lokasi Miniapolis?",
+    "answer": "Miniapolis berada di lantai Lower Ground, unit LG-B-02."
+  },
+  {
+    "question": "Di mana lokasi Marugame Udon?",
+    "answer": "Marugame Udon berada di lantai Lower Ground, unit LG-112."
+  },
+  {
+    "question": "Di mana lokasi Xiaomi?",
+    "answer": "Xiaomi berada di lantai 1st Floor, unit L1-56."
+  },
+  {
+    "question": "Di mana lokasi Hypermart?",
+    "answer": "Hypermart berada di lantai GF, unit GF-01-HPM."
+  },
+  {
+    "question": "Di mana lokasi Vans?",
+    "answer": "Vans berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi LC Waikiki?",
+    "answer": "LC Waikiki berada di lantai Ground Floor, unit GF-50."
+  },
+  {
+    "question": "Di mana lokasi Auntie Anne's?",
+    "answer": "Auntie Anne's berada di lantai Lower Ground, unit LG-K10."
+  },
+  {
+    "question": "Di mana lokasi Auntie Anne's?",
+    "answer": "Auntie Anne's berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Minizoo?",
+    "answer": "Minizoo berada di lantai L2, unit T-01."
+  },
+  {
+    "question": "Di mana lokasi Nanny's Pavilion?",
+    "answer": "Nanny's Pavilion berada di lantai 1st Floor, unit L1-09A."
+  },
+  {
+    "question": "Di mana lokasi Kimukatsu?",
+    "answer": "Kimukatsu berada di lantai Lower Ground, unit LG-156."
+  },
+  {
+    "question": "Di mana lokasi Shaburi & Kintan Buffet?",
+    "answer": "Shaburi & Kintan Buffet berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Pepper Lunch?",
+    "answer": "Pepper Lunch berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Pepper Lunch?",
+    "answer": "Pepper Lunch berada di lantai LG, unit LG-116."
+  },
+  {
+    "question": "Di mana lokasi Sour Sally?",
+    "answer": "Sour Sally berada di lantai Lower Ground, unit LG-K-02B."
+  },
+  {
+    "question": "Di mana lokasi Coconut Island?",
+    "answer": "Coconut Island berada di lantai 1st Floor, unit L1-91."
+  },
+  {
+    "question": "Di mana lokasi Thai Street?",
+    "answer": "Thai Street berada di lantai GF, unit GF-109."
+  },
+  {
+    "question": "Di mana lokasi Fritato?",
+    "answer": "Fritato berada di lantai GF, unit 0T-02G."
+  },
+  {
+    "question": "Di mana lokasi Seribu Rasa?",
+    "answer": "Seribu Rasa berada di lantai 1st Floor, unit L1-12&15."
+  },
+  {
+    "question": "Di mana lokasi Chop Buntut Cak Yo?",
+    "answer": "Chop Buntut Cak Yo berada di lantai 1st Floor, unit L1-52."
+  },
+  {
+    "question": "Di mana lokasi Raa Cha Suki & BBQ?",
+    "answer": "Raa Cha Suki & BBQ berada di lantai L2, unit 60."
+  },
+  {
+    "question": "Di mana lokasi Gokana Ramen & Teppan?",
+    "answer": "Gokana Ramen & Teppan berada di lantai 2nd Floor, unit L2-60."
+  },
+  {
+    "question": "Di mana lokasi Wingstop?",
+    "answer": "Wingstop berada di lantai 1st Floor, unit L1-09 D."
+  },
+  {
+    "question": "Di mana lokasi Kopi Kenangan?",
+    "answer": "Kopi Kenangan berada di lantai Ground Floor, unit GF-25A."
+  },
+  {
+    "question": "Di mana lokasi Kopi Kenangan?",
+    "answer": "Kopi Kenangan berada di lantai LG, unit 115A."
+  },
+  {
+    "question": "Di mana lokasi Seroeni?",
+    "answer": "Seroeni berada di lantai 1st Floor, unit L1-97."
+  },
+  {
+    "question": "Di mana lokasi Ta Wan?",
+    "answer": "Ta Wan berada di lantai Lower Ground, unit LG-11."
+  },
+  {
+    "question": "Di mana lokasi Dapur Solo?",
+    "answer": "Dapur Solo berada di lantai 1st Floor, unit L1-101."
+  },
+  {
+    "question": "Di mana lokasi Christopher Salon?",
+    "answer": "Christopher Salon berada di lantai 2nd Floor, unit L2-16&17."
+  },
+  {
+    "question": "Di mana lokasi Bath & Body Works?",
+    "answer": "Bath & Body Works berada di lantai Upper Ground, unit UG-78."
+  },
+  {
+    "question": "Di mana lokasi Victoria Secret?",
+    "answer": "Victoria Secret berada di lantai Upper Ground, unit UG-80."
+  },
+  {
+    "question": "Di mana lokasi Puyo?",
+    "answer": "Puyo berada di lantai 1st Floor, unit L1-K-53."
+  },
+  {
+    "question": "Di mana lokasi Nature Republic?",
+    "answer": "Nature Republic berada di lantai LG, unit LG-89."
+  },
+  {
+    "question": "Di mana lokasi Scoop?",
+    "answer": "Scoop berada di lantai Lower Ground, unit LG-58."
+  },
+  {
+    "question": "Di mana lokasi Warna?",
+    "answer": "Warna berada di lantai L1, unit L1-30."
+  },
+  {
+    "question": "Di mana lokasi GoWork?",
+    "answer": "GoWork berada di lantai Ground Floor, unit GF-101."
+  },
+  {
+    "question": "Di mana lokasi Kay Collection?",
+    "answer": "Kay Collection berada di lantai Lower Ground, unit LG-56."
+  },
+  {
+    "question": "Di mana lokasi Com Ngon?",
+    "answer": "Com Ngon berada di lantai Ground Floor, unit GF-68."
+  },
+  {
+    "question": "Di mana lokasi Solaria?",
+    "answer": "Solaria berada di lantai Lower Ground, unit LG-81B."
+  },
+  {
+    "question": "Di mana lokasi Uniqlo?",
+    "answer": "Uniqlo berada di lantai Upper Ground, unit UG-36."
+  },
+  {
+    "question": "Di mana lokasi Fitness First?",
+    "answer": "Fitness First berada di lantai 2nd Floor, unit L2-62."
+  },
+  {
+    "question": "Di mana lokasi Toys Kingdom?",
+    "answer": "Toys Kingdom berada di lantai GF, unit Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Toys Kingdom?",
+    "answer": "Toys Kingdom berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Toys Kingdom?",
+    "answer": "Toys Kingdom berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Toys Kingdom?",
+    "answer": "Toys Kingdom berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Toys Kingdom?",
+    "answer": "Toys Kingdom berada di lantai LG, unit G Atrium Takeshita."
+  },
+  {
+    "question": "Di mana lokasi Chatime?",
+    "answer": "Chatime berada di lantai Lower Ground, unit LG-79."
+  },
+  {
+    "question": "Di mana lokasi Owndays?",
+    "answer": "Owndays berada di lantai Upper Ground, unit UG-18."
+  },
+  {
+    "question": "Di mana lokasi Amazone?",
+    "answer": "Amazone berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi A&W Restaurants?",
+    "answer": "A&W Restaurants berada di lantai L2, unit L2-59."
+  },
+  {
+    "question": "Di mana lokasi Aneka Citra Snack?",
+    "answer": "Aneka Citra Snack berada di lantai Lower Ground, unit LG-K07B."
+  },
+  {
+    "question": "Di mana lokasi Baso A Fung?",
+    "answer": "Baso A Fung berada di lantai 1F."
+  },
+  {
+    "question": "Di mana lokasi The Little Thing She Needs?",
+    "answer": "The Little Thing She Needs berada di lantai L1, unit L1-51."
+  },
+  {
+    "question": "Di mana lokasi Ban Ban?",
+    "answer": "Ban Ban berada di lantai LG, unit LG-IA11."
+  },
+  {
+    "question": "Di mana lokasi Bariuma Ramen?",
+    "answer": "Bariuma Ramen berada di lantai 1st Floor, unit L1-98."
+  },
+  {
+    "question": "Di mana lokasi Baskin Robbins?",
+    "answer": "Baskin Robbins berada di lantai Lower Ground, unit LG-K08."
+  },
+  {
+    "question": "Di mana lokasi Batik Keris?",
+    "answer": "Batik Keris berada di lantai 1st Floor, unit L1-23."
+  },
+  {
+    "question": "Di mana lokasi Eprise?",
+    "answer": "Eprise berada di lantai 1st Floor, unit L1-80."
+  },
+  {
+    "question": "Di mana lokasi Hush Puppies?",
+    "answer": "Hush Puppies berada di lantai Ground Floor, unit GF-31."
+  },
+  {
+    "question": "Di mana lokasi Max Fashions?",
+    "answer": "Max Fashions berada di lantai Upper Ground, unit UG-53."
+  },
+  {
+    "question": "Di mana lokasi Obermain?",
+    "answer": "Obermain berada di lantai 1st Floor, unit L1-27."
+  },
+  {
+    "question": "Di mana lokasi Parang Kencana?",
+    "answer": "Parang Kencana berada di lantai Upper Ground, unit UG-60."
+  },
+  {
+    "question": "Di mana lokasi Polo Ralph Lauren?",
+    "answer": "Polo Ralph Lauren berada di lantai 1st Floor, unit L1-79."
+  },
+  {
+    "question": "Di mana lokasi This Is April?",
+    "answer": "This Is April berada di lantai L1, unit L1 - 51."
+  },
+  {
+    "question": "Di mana lokasi Valino?",
+    "answer": "Valino berada di lantai Ground Floor, unit GF-70."
+  },
+  {
+    "question": "Di mana lokasi Bornga?",
+    "answer": "Bornga berada di lantai 2nd Floor, unit L2-53&55."
+  },
+  {
+    "question": "Di mana lokasi Guess Accessories?",
+    "answer": "Guess Accessories berada di lantai Upper Ground, unit UG-19."
+  },
+  {
+    "question": "Di mana lokasi Stroberi Accessories?",
+    "answer": "Stroberi Accessories berada di lantai L1, unit L1-31."
+  },
+  {
+    "question": "Di mana lokasi Charles & Keith?",
+    "answer": "Charles & Keith berada di lantai Ground Floor, unit GF-71."
+  },
+  {
+    "question": "Di mana lokasi Adidas Homecourt?",
+    "answer": "Adidas Homecourt berada di lantai Upper Ground, unit UG-16."
+  },
+  {
+    "question": "Di mana lokasi Aldo?",
+    "answer": "Aldo berada di lantai UG, unit UG-21."
+  },
+  {
+    "question": "Di mana lokasi Crocs?",
+    "answer": "Crocs berada di lantai UG, unit UG-90."
+  },
+  {
+    "question": "Di mana lokasi Everbest?",
+    "answer": "Everbest berada di lantai Ground Floor, unit GF-27."
+  },
+  {
+    "question": "Di mana lokasi Melissa Shoes?",
+    "answer": "Melissa Shoes berada di lantai Upper Ground, unit UG-68."
+  },
+  {
+    "question": "Di mana lokasi My Feet?",
+    "answer": "My Feet berada di lantai Lower Ground, unit LG-60."
+  },
+  {
+    "question": "Di mana lokasi New Era?",
+    "answer": "New Era berada di lantai Upper Ground, unit UG-15."
+  },
+  {
+    "question": "Di mana lokasi Panama?",
+    "answer": "Panama berada di lantai 1st Floor, unit L1-K08."
+  },
+  {
+    "question": "Di mana lokasi Urban & Co?",
+    "answer": "Urban & Co berada di lantai L1, unit L1-67."
+  },
+  {
+    "question": "Di mana lokasi Wakai?",
+    "answer": "Wakai berada di lantai UG, unit UG-61."
+  },
+  {
+    "question": "Di mana lokasi Arena?",
+    "answer": "Arena berada di lantai 2nd Floor, unit L2-38."
+  },
+  {
+    "question": "Di mana lokasi Wacoal?",
+    "answer": "Wacoal berada di lantai Ground Floor, unit GF-78."
+  },
+  {
+    "question": "Di mana lokasi Adelle Jewellery?",
+    "answer": "Adelle Jewellery berada di lantai Ground Floor, unit GF-28."
+  },
+  {
+    "question": "Di mana lokasi Frank & Co?",
+    "answer": "Frank & Co berada di lantai Upper Ground, unit UG-35."
+  },
+  {
+    "question": "Di mana lokasi Optik Melawai?",
+    "answer": "Optik Melawai berada di lantai Upper Ground, unit UG-11."
+  },
+  {
+    "question": "Di mana lokasi Ooppa?",
+    "answer": "Ooppa berada di lantai 1st Floor, unit L1-37."
+  },
+  {
+    "question": "Di mana lokasi Optik Seis?",
+    "answer": "Optik Seis berada di lantai Upper Ground, unit UG-83."
+  },
+  {
+    "question": "Di mana lokasi Watch Engine?",
+    "answer": "Watch Engine berada di lantai Upper Ground, unit UG-10."
+  },
+  {
+    "question": "Di mana lokasi The Watch Co?",
+    "answer": "The Watch Co berada di lantai Ground Floor, unit GF-25B."
+  },
+  {
+    "question": "Di mana lokasi Watch Studio?",
+    "answer": "Watch Studio berada di lantai Upper Ground, unit UG-28."
+  },
+  {
+    "question": "Di mana lokasi C&F Perfumery?",
+    "answer": "C&F Perfumery berada di lantai Ground Floor, unit GF-67."
+  },
+  {
+    "question": "Di mana lokasi Glam On?",
+    "answer": "Glam On berada di lantai LG, unit LG-66."
+  },
+  {
+    "question": "Di mana lokasi Holika Holika?",
+    "answer": "Holika Holika berada di lantai Lower Ground, unit LG-88."
+  },
+  {
+    "question": "Di mana lokasi L'Occitane?",
+    "answer": "L'Occitane berada di lantai Lower Ground, unit LG-53."
+  },
+  {
+    "question": "Di mana lokasi Natural Farm?",
+    "answer": "Natural Farm berada di lantai Lower Ground, unit LG-52."
+  },
+  {
+    "question": "Di mana lokasi Sociolla?",
+    "answer": "Sociolla berada di lantai Upper Ground, unit UG-K01."
+  },
+  {
+    "question": "Di mana lokasi Sociolla?",
+    "answer": "Sociolla berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi The Body Shop?",
+    "answer": "The Body Shop berada di lantai LG, unit LG-62."
+  },
+  {
+    "question": "Di mana lokasi The Nail Shop?",
+    "answer": "The Nail Shop berada di lantai Lower Ground, unit LG-103A."
+  },
+  {
+    "question": "Di mana lokasi Yves Rocher?",
+    "answer": "Yves Rocher berada di lantai LG, unit LG-63."
+  },
+  {
+    "question": "Di mana lokasi Chateraise?",
+    "answer": "Chateraise berada di lantai LG, unit LG-1A-12."
+  },
+  {
+    "question": "Di mana lokasi Chicago Popcorn?",
+    "answer": "Chicago Popcorn berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Chicago Popcorn?",
+    "answer": "Chicago Popcorn berada di lantai L1, unit L1-K-02B."
+  },
+  {
+    "question": "Di mana lokasi Dairy Queen?",
+    "answer": "Dairy Queen berada di lantai Lower Ground, unit LG-K11."
+  },
+  {
+    "question": "Di mana lokasi Dorayaki Addict?",
+    "answer": "Dorayaki Addict berada di lantai Lower Ground, unit LG-K-03B."
+  },
+  {
+    "question": "Di mana lokasi Famous Amos?",
+    "answer": "Famous Amos berada di lantai Lower Ground, unit LG-K-09C."
+  },
+  {
+    "question": "Di mana lokasi Food Avenue?",
+    "answer": "Food Avenue berada di lantai 1st Floor, unit L1-68."
+  },
+  {
+    "question": "Di mana lokasi Gindaco?",
+    "answer": "Gindaco berada di lantai LG, unit LG-79."
+  },
+  {
+    "question": "Di mana lokasi Golden Lamian?",
+    "answer": "Golden Lamian berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Gyu-Kaku?",
+    "answer": "Gyu-Kaku berada di lantai Lower Ground, unit LG-17."
+  },
+  {
+    "question": "Di mana lokasi Haagen Dazs?",
+    "answer": "Haagen Dazs berada di lantai LG, unit LG-IA-16."
+  },
+  {
+    "question": "Di mana lokasi Hokkaido Baked Cheese Tart?",
+    "answer": "Hokkaido Baked Cheese Tart berada di lantai Lower Ground, unit LG-K-08B."
+  },
+  {
+    "question": "Di mana lokasi Ichiro Ramen?",
+    "answer": "Ichiro Ramen berada di lantai 1st Floor, unit L1-55."
+  },
+  {
+    "question": "Di mana lokasi Kafe Betawi?",
+    "answer": "Kafe Betawi berada di lantai Lower Ground, unit LG-20."
+  },
+  {
+    "question": "Di mana lokasi Kkuldak?",
+    "answer": "Kkuldak berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Maxx Coffee?",
+    "answer": "Maxx Coffee berada di lantai GF, unit GF-77."
+  },
+  {
+    "question": "Di mana lokasi Maxx Coffee?",
+    "answer": "Maxx Coffee berada di lantai GF, unit GF-95."
+  },
+  {
+    "question": "Di mana lokasi Momoiro?",
+    "answer": "Momoiro berada di lantai Lower Ground, unit LG-1A-06."
+  },
+  {
+    "question": "Di mana lokasi PappaJack?",
+    "answer": "PappaJack berada di lantai Lower Ground, unit LG-09."
+  },
+  {
+    "question": "Di mana lokasi Pho Street?",
+    "answer": "Pho Street berada di lantai 1st Floor, unit L1-10."
+  },
+  {
+    "question": "Di mana lokasi Provence?",
+    "answer": "Provence berada di lantai Lower Ground, unit LG-158."
+  },
+  {
+    "question": "Di mana lokasi Rejuve?",
+    "answer": "Rejuve berada di lantai Lower Ground, unit LG-K11B."
+  },
+  {
+    "question": "Di mana lokasi Roti Boy?",
+    "answer": "Roti Boy berada di lantai LG, unit LG-K-22TA."
+  },
+  {
+    "question": "Di mana lokasi Shihlin Taiwan Street Snacks?",
+    "answer": "Shihlin Taiwan Street Snacks berada di lantai Lower Ground, unit LG-73A."
+  },
+  {
+    "question": "Di mana lokasi Simply?",
+    "answer": "Simply berada di lantai Lower Ground, unit LG-K-03A."
+  },
+  {
+    "question": "Di mana lokasi Sop Ikan Batam?",
+    "answer": "Sop Ikan Batam berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Steak 21?",
+    "answer": "Steak 21 berada di lantai L1, unit L1-95."
+  },
+  {
+    "question": "Di mana lokasi Suan Thai?",
+    "answer": "Suan Thai berada di lantai Lower Ground, unit LG-16."
+  },
+  {
+    "question": "Di mana lokasi Sukiya?",
+    "answer": "Sukiya berada di lantai Lower Ground, unit LG-10."
+  },
+  {
+    "question": "Di mana lokasi Sushi Go?",
+    "answer": "Sushi Go berada di lantai Lower Ground, unit LG-127."
+  },
+  {
+    "question": "Di mana lokasi Sushi Hiro?",
+    "answer": "Sushi Hiro berada di lantai 1st Floor, unit L1-09B."
+  },
+  {
+    "question": "Di mana lokasi The Duck King?",
+    "answer": "The Duck King berada di lantai 1st Floor, unit L1-03."
+  },
+  {
+    "question": "Di mana lokasi The Garden?",
+    "answer": "The Garden berada di lantai GF, unit GF-55."
+  },
+  {
+    "question": "Di mana lokasi Toby's Estate?",
+    "answer": "Toby's Estate berada di lantai GF, unit GF-63, GF-63 OS, GF-63 S/A."
+  },
+  {
+    "question": "Di mana lokasi Timezone?",
+    "answer": "Timezone berada di lantai UG, unit UG 97-103."
+  },
+  {
+    "question": "Di mana lokasi Timezone?",
+    "answer": "Timezone berada di lantai 1st Floor, unit L1-07."
+  },
+  {
+    "question": "Di mana lokasi Element Family Fun?",
+    "answer": "Element Family Fun berada di lantai Lower Ground, unit LG-152."
+  },
+  {
+    "question": "Di mana lokasi Browhous?",
+    "answer": "Browhous berada di lantai Lower Ground, unit LG-22D."
+  },
+  {
+    "question": "Di mana lokasi Cell Science?",
+    "answer": "Cell Science berada di lantai L2, unit L2-09."
+  },
+  {
+    "question": "Di mana lokasi Oriskin?",
+    "answer": "Oriskin berada di lantai L2, unit L2-66B."
+  },
+  {
+    "question": "Di mana lokasi Pure Laser Clinic?",
+    "answer": "Pure Laser Clinic berada di lantai 2nd Floor, unit L2-05."
+  },
+  {
+    "question": "Di mana lokasi Arts Dental Care?",
+    "answer": "Arts Dental Care berada di lantai Lower Ground, unit LG-02."
+  },
+  {
+    "question": "Di mana lokasi Meiso Reflexology?",
+    "answer": "Meiso Reflexology berada di lantai Lower Ground, unit LG-28."
+  },
+  {
+    "question": "Di mana lokasi Nano Healthy Family?",
+    "answer": "Nano Healthy Family berada di lantai UG, unit UG-R01."
+  },
+  {
+    "question": "Di mana lokasi Century Healthcare?",
+    "answer": "Century Healthcare berada di lantai Lower Ground, unit LG-69."
+  },
+  {
+    "question": "Di mana lokasi Kiddy Cuts?",
+    "answer": "Kiddy Cuts berada di lantai Lower Ground, unit LG-55."
+  },
+  {
+    "question": "Di mana lokasi Kaizen Barbershop?",
+    "answer": "Kaizen Barbershop berada di lantai 2nd Floor, unit L2-15."
+  },
+  {
+    "question": "Di mana lokasi Paxi Barbershop?",
+    "answer": "Paxi Barbershop berada di lantai Lower Ground, unit LG-22I."
+  },
+  {
+    "question": "Di mana lokasi Dwidaya Tour?",
+    "answer": "Dwidaya Tour berada di lantai L2, unit L2- 36."
+  },
+  {
+    "question": "Di mana lokasi Golden Rama?",
+    "answer": "Golden Rama berada di lantai 2nd Floor, unit L2-11."
+  },
+  {
+    "question": "Di mana lokasi Bank Nobu?",
+    "answer": "Bank Nobu berada di lantai Ground Floor, unit GF-96."
+  },
+  {
+    "question": "Di mana lokasi Bank Mandiri?",
+    "answer": "Bank Mandiri berada di lantai Upper Ground, unit UG-R11."
+  },
+  {
+    "question": "Di mana lokasi Global Art?",
+    "answer": "Global Art berada di lantai BS, unit B-15A."
+  },
+  {
+    "question": "Di mana lokasi English First?",
+    "answer": "English First berada di lantai 1st Floor, unit L1-67C."
+  },
+  {
+    "question": "Di mana lokasi Sempoa Sip?",
+    "answer": "Sempoa Sip berada di lantai B, unit B-15."
+  },
+  {
+    "question": "Di mana lokasi Vines?",
+    "answer": "Vines berada di lantai Lower Ground, unit LG-107."
+  },
+  {
+    "question": "Di mana lokasi Stop N Go?",
+    "answer": "Stop N Go berada di lantai Lower Ground, unit LG-76A."
+  },
+  {
+    "question": "Di mana lokasi Lock & Lock?",
+    "answer": "Lock & Lock berada di lantai LG, unit LG-90."
+  },
+  {
+    "question": "Di mana lokasi Mr DIY?",
+    "answer": "Mr DIY berada di lantai 2nd Floor, unit L2-32."
+  },
+  {
+    "question": "Di mana lokasi Huawei Experience Store?",
+    "answer": "Huawei Experience Store berada di lantai L1, unit L1-82."
+  },
+  {
+    "question": "Di mana lokasi Urban Life?",
+    "answer": "Urban Life berada di lantai 1st Floor, unit L1-77."
+  },
+  {
+    "question": "Di mana lokasi Dr Gadget?",
+    "answer": "Dr Gadget berada di lantai 1st Floor, unit L1-K09."
+  },
+  {
+    "question": "Di mana lokasi Eraplus?",
+    "answer": "Eraplus berada di lantai L1, unit L1-85."
+  },
+  {
+    "question": "Di mana lokasi Loly Poly?",
+    "answer": "Loly Poly berada di lantai L1, unit L1 - K - 51."
+  },
+  {
+    "question": "Di mana lokasi Oppo?",
+    "answer": "Oppo berada di lantai L1, unit L1-25."
+  },
+  {
+    "question": "Di mana lokasi Playworks?",
+    "answer": "Playworks berada di lantai 1st Floor, unit L1-73."
+  },
+  {
+    "question": "Di mana lokasi Point 2000?",
+    "answer": "Point 2000 berada di lantai 1st Floor, unit L1-60."
+  },
+  {
+    "question": "Di mana lokasi GS Shop?",
+    "answer": "GS Shop berada di lantai 1st Floor, unit L1-70."
+  },
+  {
+    "question": "Di mana lokasi Gramedia?",
+    "answer": "Gramedia berada di lantai Lower Ground, unit LG-93."
+  },
+  {
+    "question": "Di mana lokasi Pigeon?",
+    "answer": "Pigeon berada di lantai Lower Ground, unit LG-57."
+  },
+  {
+    "question": "Di mana lokasi Tammia?",
+    "answer": "Tammia berada di lantai 1st Floor, unit L1-22."
+  },
+  {
+    "question": "Di mana lokasi Ranch Market?",
+    "answer": "Ranch Market berada di lantai Ground Floor, unit GF-117."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai 1st Floor, unit L1-57."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai L1-L2."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai LG, unit LG depan Lock&Lock."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai LG, unit LG Atrium Takeshita."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai GF, unit GF Atrium 1 depan C&F."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai GF, unit GF Atrium 1 depan Hush Puppies."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai GF, unit GF Main Lobby 1 depan Papparich."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai UG, unit UG depan Cotton On."
+  },
+  {
+    "question": "Di mana lokasi Matahari Department Store?",
+    "answer": "Matahari Department Store berada di lantai UG, unit UG Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Bridges Eyewear?",
+    "answer": "Bridges Eyewear berada di lantai 1st Floor, unit L1-20."
+  },
+  {
+    "question": "Di mana lokasi 4 Fingers?",
+    "answer": "4 Fingers berada di lantai L2, unit L2-76A."
+  },
+  {
+    "question": "Di mana lokasi The Palace?",
+    "answer": "The Palace berada di lantai GF, unit GF-33."
+  },
+  {
+    "question": "Di mana lokasi Grebe?",
+    "answer": "Grebe berada di lantai 1st Floor, unit 1- 66B."
+  },
+  {
+    "question": "Di mana lokasi Saturdays?",
+    "answer": "Saturdays berada di lantai Ground Floor, unit GF-76."
+  },
+  {
+    "question": "Di mana lokasi Montato?",
+    "answer": "Montato berada di lantai LG, unit LG-K-11TA."
+  },
+  {
+    "question": "Di mana lokasi SKIN+?",
+    "answer": "SKIN+ berada di lantai LG, unit LG-03."
+  },
+  {
+    "question": "Di mana lokasi Makuku Family?",
+    "answer": "Makuku Family berada di lantai Upper Ground, unit UG-72."
+  },
+  {
+    "question": "Di mana lokasi Asus Store?",
+    "answer": "Asus Store berada di lantai 1st Floor, unit L1-63."
+  },
+  {
+    "question": "Di mana lokasi BABY BAR?",
+    "answer": "BABY BAR berada di lantai Lower Ground, unit LG-K-10B."
+  },
+  {
+    "question": "Di mana lokasi Baka Baka Beef?",
+    "answer": "Baka Baka Beef berada di lantai GF, unit 0T-02E."
+  },
+  {
+    "question": "Di mana lokasi Bakmi Gili?",
+    "answer": "Bakmi Gili berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Bakmitopia?",
+    "answer": "Bakmitopia berada di lantai Lower Ground, unit LG-108."
+  },
+  {
+    "question": "Di mana lokasi Banila Co.?",
+    "answer": "Banila Co. berada di lantai Lower Ground, unit LG-59."
+  },
+  {
+    "question": "Di mana lokasi BATHAHOLIC?",
+    "answer": "BATHAHOLIC berada di lantai 1st Floor, unit L1-K-51."
+  },
+  {
+    "question": "Di mana lokasi BIEKOOBEE?",
+    "answer": "BIEKOOBEE berada di lantai Upper Ground, unit UG-K-09A."
+  },
+  {
+    "question": "Di mana lokasi Brexit?",
+    "answer": "Brexit berada di lantai Basement, unit B-10."
+  },
+  {
+    "question": "Di mana lokasi Caramello Shop?",
+    "answer": "Caramello Shop berada di lantai Lower Ground, unit LG-22B."
+  },
+  {
+    "question": "Di mana lokasi Carl & Claire?",
+    "answer": "Carl & Claire berada di lantai UG, unit UG-K-09B."
+  },
+  {
+    "question": "Di mana lokasi CETAK PHOTO?",
+    "answer": "CETAK PHOTO berada di lantai Basement, unit B-9."
+  },
+  {
+    "question": "Di mana lokasi CHOCOCHIPS?",
+    "answer": "CHOCOCHIPS berada di lantai 1st Floor, unit L1- 28."
+  },
+  {
+    "question": "Di mana lokasi Coco Time?",
+    "answer": "Coco Time berada di lantai Lower Ground, unit LG-K-05B."
+  },
+  {
+    "question": "Di mana lokasi DANDIS BEAUTY CARE?",
+    "answer": "DANDIS BEAUTY CARE berada di lantai Lower Ground, unit LG-26."
+  },
+  {
+    "question": "Di mana lokasi DAYTRANS?",
+    "answer": "DAYTRANS berada di lantai Ground Floor, unit GF-26A."
+  },
+  {
+    "question": "Di mana lokasi D'Crepes?",
+    "answer": "D'Crepes berada di lantai Lower Ground, unit LG-IA-11D."
+  },
+  {
+    "question": "Di mana lokasi De Sound?",
+    "answer": "De Sound berada di lantai 1st Floor, unit L1-62."
+  },
+  {
+    "question": "Di mana lokasi Dragon Hot Pot?",
+    "answer": "Dragon Hot Pot berada di lantai 1st Floor, unit L1-53."
+  },
+  {
+    "question": "Di mana lokasi DressUp Laundry & Perla?",
+    "answer": "DressUp Laundry & Perla berada di lantai Lower Ground, unit LG-22J."
+  },
+  {
+    "question": "Di mana lokasi DYSON?",
+    "answer": "DYSON berada di lantai GF, unit GF-AT (01gl-01gk)."
+  },
+  {
+    "question": "Di mana lokasi Ewan Pao?",
+    "answer": "Ewan Pao berada di lantai Lower Ground, unit LG-K-08A."
+  },
+  {
+    "question": "Di mana lokasi Favor Party Supplies?",
+    "answer": "Favor Party Supplies berada di lantai Lower Ground, unit LG-121."
+  },
+  {
+    "question": "Di mana lokasi Fire Tiger?",
+    "answer": "Fire Tiger berada di lantai L2, unit L2-82A."
+  },
+  {
+    "question": "Di mana lokasi First Love Patisserie?",
+    "answer": "First Love Patisserie berada di lantai 1st Floor."
+  },
+  {
+    "question": "Di mana lokasi GEREJA BETHEL INDONESIA?",
+    "answer": "GEREJA BETHEL INDONESIA berada di lantai LG, unit LG-103C."
+  },
+  {
+    "question": "Di mana lokasi GENKI SUSHI?",
+    "answer": "GENKI SUSHI berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi GNC LIVE WELL?",
+    "answer": "GNC LIVE WELL berada di lantai Lower Ground, unit LG-81A."
+  },
+  {
+    "question": "Di mana lokasi CASIO STORE?",
+    "answer": "CASIO STORE berada di lantai Upper Ground, unit UG-82A."
+  },
+  {
+    "question": "Di mana lokasi H&M KIDS?",
+    "answer": "H&M KIDS berada di lantai Lower Ground, unit LG-38."
+  },
+  {
+    "question": "Di mana lokasi Havaianas?",
+    "answer": "Havaianas berada di lantai Upper Ground, unit UG-K-09D."
+  },
+  {
+    "question": "Di mana lokasi Hong Kong Shengkee Dessert?",
+    "answer": "Hong Kong Shengkee Dessert berada di lantai Lower Ground, unit LG-18."
+  },
+  {
+    "question": "Di mana lokasi iEye?",
+    "answer": "iEye berada di lantai Upper Ground, unit UG-39."
+  },
+  {
+    "question": "Di mana lokasi iDecor?",
+    "answer": "iDecor berada di lantai 2nd Floor, unit L2-36."
+  },
+  {
+    "question": "Di mana lokasi Innisfree?",
+    "answer": "Innisfree berada di lantai Ground Floor, unit GF-21."
+  },
+  {
+    "question": "Di mana lokasi Ippudo Ramen?",
+    "answer": "Ippudo Ramen berada di lantai Lower Ground, unit LG-157."
+  },
+  {
+    "question": "Di mana lokasi Jack & John?",
+    "answer": "Jack & John berada di lantai Lower Ground, unit LG-73B."
+  },
+  {
+    "question": "Di mana lokasi Jin Mu?",
+    "answer": "Jin Mu berada di lantai 1st Floor, unit L1-103."
+  },
+  {
+    "question": "Di mana lokasi K3 MART?",
+    "answer": "K3 MART berada di lantai L2, unit L2-86."
+  },
+  {
+    "question": "Di mana lokasi Kedai Si Mbok?",
+    "answer": "Kedai Si Mbok berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Keds?",
+    "answer": "Keds berada di lantai Ground Floor, unit GF-87."
+  },
+  {
+    "question": "Di mana lokasi KKV?",
+    "answer": "KKV berada di lantai Lower Ground, unit LG-85."
+  },
+  {
+    "question": "Di mana lokasi LA DIANA?",
+    "answer": "LA DIANA berada di lantai Lower Ground, unit LG-05."
+  },
+  {
+    "question": "Di mana lokasi Lace Lynelle?",
+    "answer": "Lace Lynelle berada di lantai 1st Floor, unit L1-K07."
+  },
+  {
+    "question": "Di mana lokasi LAPIS LAPIS?",
+    "answer": "LAPIS LAPIS berada di lantai LG, unit LG-K-01A."
+  },
+  {
+    "question": "Di mana lokasi LIANG SANDWICH BAR?",
+    "answer": "LIANG SANDWICH BAR berada di lantai Lower Ground, unit LG-K-09B."
+  },
+  {
+    "question": "Di mana lokasi Lighthouse?",
+    "answer": "Lighthouse berada di lantai 2nd Floor, unit L2-10A."
+  },
+  {
+    "question": "Di mana lokasi Llaollao?",
+    "answer": "Llaollao berada di lantai LG, unit LG-K07."
+  },
+  {
+    "question": "Di mana lokasi LOVE BONITO?",
+    "answer": "LOVE BONITO berada di lantai Upper Ground, unit UG-66."
+  },
+  {
+    "question": "Di mana lokasi Lukumades?",
+    "answer": "Lukumades berada di lantai 2nd Floor, unit L2-67A."
+  },
+  {
+    "question": "Di mana lokasi Make Over?",
+    "answer": "Make Over berada di lantai LG, unit LG-92."
+  },
+  {
+    "question": "Di mana lokasi Mama Roz?",
+    "answer": "Mama Roz berada di lantai 2nd Floor, unit L2-K01."
+  },
+  {
+    "question": "Di mana lokasi MEDIA KOMPUTINDO?",
+    "answer": "MEDIA KOMPUTINDO berada di lantai Basement, unit B-5."
+  },
+  {
+    "question": "Di mana lokasi MINISO?",
+    "answer": "MINISO berada di lantai Upper Ground, unit UG-26."
+  },
+  {
+    "question": "Di mana lokasi Moscato?",
+    "answer": "Moscato berada di lantai Upper Ground, unit UG-30."
+  },
+  {
+    "question": "Di mana lokasi Mr.Dakgalbi?",
+    "answer": "Mr.Dakgalbi berada di lantai Lower Ground, unit LG-70."
+  },
+  {
+    "question": "Di mana lokasi MUTIARA RESTAURANT?",
+    "answer": "MUTIARA RESTAURANT berada di lantai 1st Floor, unit L1-02A."
+  },
+  {
+    "question": "Di mana lokasi NIKE?",
+    "answer": "NIKE berada di lantai Ground Floor, unit GF-88."
+  },
+  {
+    "question": "Di mana lokasi Nine Worlds?",
+    "answer": "Nine Worlds berada di lantai Upper Ground, unit UG-K-09F."
+  },
+  {
+    "question": "Di mana lokasi Obaja Tour?",
+    "answer": "Obaja Tour berada di lantai LG, unit LG-21A."
+  },
+  {
+    "question": "Di mana lokasi Our Daily Dose?",
+    "answer": "Our Daily Dose berada di lantai Upper Ground, unit UG-12."
+  },
+  {
+    "question": "Di mana lokasi Onnie Studio?",
+    "answer": "Onnie Studio berada di lantai Lower Ground, unit LG-22C."
+  },
+  {
+    "question": "Di mana lokasi Pain Relief Clinic?",
+    "answer": "Pain Relief Clinic berada di lantai 2nd Floor, unit L2-10."
+  },
+  {
+    "question": "Di mana lokasi Pancious?",
+    "answer": "Pancious berada di lantai Lower Ground, unit LG-115."
+  },
+  {
+    "question": "Di mana lokasi Panorama JTB Tours?",
+    "answer": "Panorama JTB Tours berada di lantai Lower Ground, unit LG-120."
+  },
+  {
+    "question": "Di mana lokasi PERIPERA?",
+    "answer": "PERIPERA berada di lantai Upper Ground, unit UG-62."
+  },
+  {
+    "question": "Di mana lokasi Playtopia?",
+    "answer": "Playtopia berada di lantai L2, unit L2-23A."
+  },
+  {
+    "question": "Di mana lokasi Pouffie?",
+    "answer": "Pouffie berada di lantai Lower Ground, unit LG-96A."
+  },
+  {
+    "question": "Di mana lokasi R&B Tea?",
+    "answer": "R&B Tea berada di lantai 1st Floor, unit L1-K02."
+  },
+  {
+    "question": "Di mana lokasi Reddog?",
+    "answer": "Reddog berada di lantai 2nd Floor, unit L2-66C."
+  },
+  {
+    "question": "Di mana lokasi Samjin Amook?",
+    "answer": "Samjin Amook berada di lantai Lower Ground, unit LG-72."
+  },
+  {
+    "question": "Di mana lokasi SAMSAT Corner?",
+    "answer": "SAMSAT Corner berada di lantai Basement, unit B-2."
+  },
+  {
+    "question": "Di mana lokasi Sony?",
+    "answer": "Sony berada di lantai 1st Floor, unit L1-19."
+  },
+  {
+    "question": "Di mana lokasi STEAK HOTEL BY HOLYCOW!?",
+    "answer": "STEAK HOTEL BY HOLYCOW! berada di lantai Lower Ground, unit LG-29."
+  },
+  {
+    "question": "Di mana lokasi Steve Madden?",
+    "answer": "Steve Madden berada di lantai Upper Ground, unit UG-91."
+  },
+  {
+    "question": "Di mana lokasi Studio T Salon?",
+    "answer": "Studio T Salon berada di lantai 2nd Floor, unit L2-12."
+  },
+  {
+    "question": "Di mana lokasi Surface Skin Habit?",
+    "answer": "Surface Skin Habit berada di lantai Lower Ground, unit LG-25."
+  },
+  {
+    "question": "Di mana lokasi The Spotless Club?",
+    "answer": "The Spotless Club berada di lantai Lower Ground, unit LG-K-01S."
+  },
+  {
+    "question": "Di mana lokasi TIKTOK WATCH?",
+    "answer": "TIKTOK WATCH berada di lantai Upper Ground, unit UG-82."
+  },
+  {
+    "question": "Di mana lokasi Urban Republic?",
+    "answer": "Urban Republic berada di lantai Upper Ground, unit UG-07."
+  },
+  {
+    "question": "Di mana lokasi Vionic?",
+    "answer": "Vionic berada di lantai Upper Ground, unit UG-K-08."
+  },
+  {
+    "question": "Di mana lokasi Warung Leko?",
+    "answer": "Warung Leko berada di lantai Lower Ground, unit LG-19."
+  },
+  {
+    "question": "Di mana lokasi Xing Fu Tang?",
+    "answer": "Xing Fu Tang berada di lantai Lower Ground, unit LG-IA-11B."
+  },
+  {
+    "question": "Di mana lokasi Ya Kun Kaya Toast?",
+    "answer": "Ya Kun Kaya Toast berada di lantai Lower Ground, unit LG-83."
+  },
+  {
+    "question": "Di mana lokasi Yakiniku Like?",
+    "answer": "Yakiniku Like berada di lantai Lower Ground, unit LG-111."
+  },
+  {
+    "question": "Di mana lokasi Abura Soba Yamatoten?",
+    "answer": "Abura Soba Yamatoten berada di lantai 1st Floor, unit L1-11."
+  },
+  {
+    "question": "Di mana lokasi Zenbu?",
+    "answer": "Zenbu berada di lantai Lower Ground, unit LG-155A."
+  },
+  {
+    "question": "Di mana lokasi Zojirushi?",
+    "answer": "Zojirushi berada di lantai 2nd Floor, unit L2-37."
+  },
+  {
+    "question": "Di mana lokasi OSIM?",
+    "answer": "OSIM berada di lantai LG, unit 99."
+  },
+  {
+    "question": "Di mana lokasi ATM BCA?",
+    "answer": "ATM BCA berada di lantai Lower Ground, unit ATM-LG #C-06."
+  },
+  {
+    "question": "Di mana lokasi TONI&GUY?",
+    "answer": "TONI&GUY berada di lantai 2nd Floor, unit L2-01."
+  },
+  {
+    "question": "Di mana lokasi ATM MANDIRI?",
+    "answer": "ATM MANDIRI berada di lantai Lower Ground, unit ATM-LG-B-06."
+  },
+  {
+    "question": "Di mana lokasi ATM PERMATA?",
+    "answer": "ATM PERMATA berada di lantai LG, unit ATM-LG-B #01."
+  },
+  {
+    "question": "Di mana lokasi CINEMA XXI?",
+    "answer": "CINEMA XXI berada di lantai 1st Floor, unit L1-08."
+  },
+  {
+    "question": "Di mana lokasi THE FOOD HALL?",
+    "answer": "THE FOOD HALL berada di lantai Lower Ground, unit LG-31."
+  },
+  {
+    "question": "Di mana lokasi YONG TAU FU?",
+    "answer": "YONG TAU FU berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi FitPlus?",
+    "answer": "FitPlus berada di lantai Lower Ground, unit LG-87."
+  },
+  {
+    "question": "Di mana lokasi KLIKNKLIK?",
+    "answer": "KLIKNKLIK berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi IRWAN TEAM HAIR DESIGN?",
+    "answer": "IRWAN TEAM HAIR DESIGN berada di lantai Lower Ground, unit LG-102 M."
+  },
+  {
+    "question": "Di mana lokasi Samsung Experience Store?",
+    "answer": "Samsung Experience Store berada di lantai 1st Floor, unit L1-17."
+  },
+  {
+    "question": "Di mana lokasi CLARKS SHOES?",
+    "answer": "CLARKS SHOES berada di lantai UG, unit UG-22."
+  },
+  {
+    "question": "Di mana lokasi BOSE?",
+    "answer": "BOSE berada di lantai UG, unit 61."
+  },
+  {
+    "question": "Di mana lokasi ATM CIMB NIAGA?",
+    "answer": "ATM CIMB NIAGA berada di lantai Lower Ground, unit ATM-LG-B-03."
+  },
+  {
+    "question": "Di mana lokasi ATM PANIN?",
+    "answer": "ATM PANIN berada di lantai Lower Ground, unit ATM-LG-B #02."
+  },
+  {
+    "question": "Di mana lokasi BEARD PAPA'S?",
+    "answer": "BEARD PAPA'S berada di lantai LG, unit LG-81A."
+  },
+  {
+    "question": "Di mana lokasi Sancha Tea?",
+    "answer": "Sancha Tea berada di lantai L1, unit L1-K-02C."
+  },
+  {
+    "question": "Di mana lokasi D'PARIS?",
+    "answer": "D'PARIS berada di lantai 1st Floor, unit L1-K-6B."
+  },
+  {
+    "question": "Di mana lokasi PURWACARAKA MUSIC STUDIO STORE?",
+    "answer": "PURWACARAKA MUSIC STUDIO STORE berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi WAXHAUS?",
+    "answer": "WAXHAUS berada di lantai LG, unit LG-30."
+  },
+  {
+    "question": "Di mana lokasi ATM OCBC NISP?",
+    "answer": "ATM OCBC NISP berada di lantai Lower Ground, unit ATM-LG-C#15."
+  },
+  {
+    "question": "Di mana lokasi POLO?",
+    "answer": "POLO berada di lantai L1, unit L1-87."
+  },
+  {
+    "question": "Di mana lokasi POLO?",
+    "answer": "POLO berada di lantai GF, unit GF-AT-01ga."
+  },
+  {
+    "question": "Di mana lokasi BABY SHOP?",
+    "answer": "BABY SHOP berada di lantai Upper Ground, unit UG-53A."
+  },
+  {
+    "question": "Di mana lokasi Extention Fun Word?",
+    "answer": "Extention Fun Word berada di lantai L2, unit K15."
+  },
+  {
+    "question": "Di mana lokasi LEGO?",
+    "answer": "LEGO berada di lantai LG, unit LG-50,51."
+  },
+  {
+    "question": "Di mana lokasi CIMB NIAGA DIGITAL LOUNGE?",
+    "answer": "CIMB NIAGA DIGITAL LOUNGE berada di lantai Ground Floor, unit GF-12."
+  },
+  {
+    "question": "Di mana lokasi YUAN MARKET?",
+    "answer": "YUAN MARKET berada di lantai 1st Floor, unit L1-81."
+  },
+  {
+    "question": "Di mana lokasi Retrocut Barbershop?",
+    "answer": "Retrocut Barbershop berada di lantai 2nd Floor, unit L2-79C."
+  },
+  {
+    "question": "Di mana lokasi MihiMihi?",
+    "answer": "MihiMihi berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Cotton Ink?",
+    "answer": "Cotton Ink berada di lantai 1st Floor."
+  },
+  {
+    "question": "Di mana lokasi Bakmi Gocit?",
+    "answer": "Bakmi Gocit berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Boost Juice?",
+    "answer": "Boost Juice berada di lantai Lower Ground, unit LG-IA-11A."
+  },
+  {
+    "question": "Di mana lokasi Wee Nam Kee?",
+    "answer": "Wee Nam Kee berada di lantai LG, unit LG-12, LG-12 O/S."
+  },
+  {
+    "question": "Di mana lokasi Super Furry?",
+    "answer": "Super Furry berada di lantai 2nd Floor, unit L2-83A."
+  },
+  {
+    "question": "Di mana lokasi ADIDAS Originals - Navya Retail?",
+    "answer": "ADIDAS Originals - Navya Retail berada di lantai UG, unit UG-16."
+  },
+  {
+    "question": "Di mana lokasi Adidas Neighborhood?",
+    "answer": "Adidas Neighborhood berada di lantai Upper Ground, unit UG-17."
+  },
+  {
+    "question": "Di mana lokasi ATM BANK NOBU?",
+    "answer": "ATM BANK NOBU berada di lantai 1st Floor, unit L1-ATM-01."
+  },
+  {
+    "question": "Di mana lokasi Bale Lombok?",
+    "answer": "Bale Lombok berada di lantai 1st Floor, unit L1-93."
+  },
+  {
+    "question": "Di mana lokasi ZUMA?",
+    "answer": "ZUMA berada di lantai UG, unit UG-K-09C."
+  },
+  {
+    "question": "Di mana lokasi Nespresso?",
+    "answer": "Nespresso berada di lantai L1, unit L1-STO-05."
+  },
+  {
+    "question": "Di mana lokasi MUTIARA SAKTI?",
+    "answer": "MUTIARA SAKTI berada di lantai Lower Ground, unit LG-22E."
+  },
+  {
+    "question": "Di mana lokasi Rempah Bistro?",
+    "answer": "Rempah Bistro berada di lantai Lower Ground, unit LG-109."
+  },
+  {
+    "question": "Di mana lokasi Kemayu?",
+    "answer": "Kemayu berada di lantai Upper Ground, unit UG-K-08B."
+  },
+  {
+    "question": "Di mana lokasi Yogost?",
+    "answer": "Yogost berada di lantai Lower Ground, unit LG-K-08C."
+  },
+  {
+    "question": "Di mana lokasi Pandora Experience?",
+    "answer": "Pandora Experience berada di lantai L2, unit L2-68."
+  },
+  {
+    "question": "Di mana lokasi LUMI Facial Care?",
+    "answer": "LUMI Facial Care berada di lantai Lower Ground, unit LG-22H."
+  },
+  {
+    "question": "Di mana lokasi Hyundai Motor?",
+    "answer": "Hyundai Motor berada di lantai Ground Floor, unit GF-38."
+  },
+  {
+    "question": "Di mana lokasi Biggby Coffee?",
+    "answer": "Biggby Coffee berada di lantai GF, unit GF-82, GF-82 O/S."
+  },
+  {
+    "question": "Di mana lokasi CK Education?",
+    "answer": "CK Education berada di lantai B, unit B-7, B-8."
+  },
+  {
+    "question": "Di mana lokasi Say Chiizu?",
+    "answer": "Say Chiizu berada di lantai LG, unit LG-K-10TA."
+  },
+  {
+    "question": "Di mana lokasi Kidddyworld?",
+    "answer": "Kidddyworld berada di lantai L2, unit --."
+  },
+  {
+    "question": "Di mana lokasi Vandalz?",
+    "answer": "Vandalz berada di lantai 1st Floor, unit L1-K-03A."
+  },
+  {
+    "question": "Di mana lokasi Roona?",
+    "answer": "Roona berada di lantai Lower Ground, unit LG-61."
+  },
+  {
+    "question": "Di mana lokasi ALASH STUDIO?",
+    "answer": "ALASH STUDIO berada di lantai LG, unit LG-22G."
+  },
+  {
+    "question": "Di mana lokasi Auto Clean Waterless?",
+    "answer": "Auto Clean Waterless berada di lantai B, unit B-J-26."
+  },
+  {
+    "question": "Di mana lokasi Bee Crepes?",
+    "answer": "Bee Crepes berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi BIJIN NABE?",
+    "answer": "BIJIN NABE berada di lantai L1, unit L1-99&100."
+  },
+  {
+    "question": "Di mana lokasi Cindy?",
+    "answer": "Cindy berada di lantai L1, unit L1-39."
+  },
+  {
+    "question": "Di mana lokasi CINNABON?",
+    "answer": "CINNABON berada di lantai GF, unit GF-109."
+  },
+  {
+    "question": "Di mana lokasi Esteboo?",
+    "answer": "Esteboo berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Founder Bak Kut Teh?",
+    "answer": "Founder Bak Kut Teh berada di lantai L1, unit L1-95."
+  },
+  {
+    "question": "Di mana lokasi HAPPY LEMON?",
+    "answer": "HAPPY LEMON berada di lantai LG, unit K02A."
+  },
+  {
+    "question": "Di mana lokasi Holycow Steakhouse?",
+    "answer": "Holycow Steakhouse berada di lantai LG, unit LG-29."
+  },
+  {
+    "question": "Di mana lokasi JD Sports?",
+    "answer": "JD Sports berada di lantai GF, unit GF-119, GF-120, GF-121, GF-122, GF-37."
+  },
+  {
+    "question": "Di mana lokasi Joe & Dough?",
+    "answer": "Joe & Dough berada di lantai GF, unit GF-93."
+  },
+  {
+    "question": "Di mana lokasi Kappa Sushi?",
+    "answer": "Kappa Sushi berada di lantai L1, unit L1-01A."
+  },
+  {
+    "question": "Di mana lokasi MANEKINEKO?",
+    "answer": "MANEKINEKO berada di lantai LG, unit LG-B-02."
+  },
+  {
+    "question": "Di mana lokasi Lino & Sons?",
+    "answer": "Lino & Sons berada di lantai Ground Floor, unit GF-29."
+  },
+  {
+    "question": "Di mana lokasi M7 Tactical?",
+    "answer": "M7 Tactical berada di lantai L2, unit L2-75."
+  },
+  {
+    "question": "Di mana lokasi MARCO'S CHOP SHOP?",
+    "answer": "MARCO'S CHOP SHOP berada di lantai 2F."
+  },
+  {
+    "question": "Di mana lokasi MOMOKINO?",
+    "answer": "MOMOKINO berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Poppang?",
+    "answer": "Poppang berada di lantai LG, unit LG-K-09TA."
+  },
+  {
+    "question": "Di mana lokasi Red & White?",
+    "answer": "Red & White berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Super Wings?",
+    "answer": "Super Wings berada di lantai Lower Ground, unit LG-K-10T."
+  },
+  {
+    "question": "Di mana lokasi VTrend Premium Relaxation?",
+    "answer": "VTrend Premium Relaxation berada di lantai L1, unit L1-K-01E."
+  },
+  {
+    "question": "Di mana lokasi VTrend Premium Relaxation?",
+    "answer": "VTrend Premium Relaxation berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi WOOYOO ICE CREAM?",
+    "answer": "WOOYOO ICE CREAM berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Subway?",
+    "answer": "Subway berada di lantai GF, unit GF-83&85, GF-83&85 O/S."
+  },
+  {
+    "question": "Di mana lokasi Coway?",
+    "answer": "Coway berada di lantai L2, unit L2-K09."
+  },
+  {
+    "question": "Di mana lokasi Vyatta?",
+    "answer": "Vyatta berada di lantai UG."
+  },
+  {
+    "question": "Di mana lokasi Edokko?",
+    "answer": "Edokko berada di lantai 2nd."
+  },
+  {
+    "question": "Di mana lokasi The Self Inc?",
+    "answer": "The Self Inc berada di lantai Lower Ground, unit LG-96."
+  },
+  {
+    "question": "Di mana lokasi Blibli?",
+    "answer": "Blibli berada di lantai L1, unit L1-88."
+  },
+  {
+    "question": "Di mana lokasi Play & Win?",
+    "answer": "Play & Win berada di lantai L2, unit L2-K-16."
+  },
+  {
+    "question": "Di mana lokasi Unit Layanan Paspor?",
+    "answer": "Unit Layanan Paspor berada di lantai BS, unit 2."
+  },
+  {
+    "question": "Di mana lokasi By Aura?",
+    "answer": "By Aura berada di lantai UG, unit UG-58."
+  },
+  {
+    "question": "Di mana lokasi Foyu?",
+    "answer": "Foyu berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi WiLD MiLD?",
+    "answer": "WiLD MiLD berada di lantai UG, unit UG-92."
+  },
+  {
+    "question": "Di mana lokasi Liao Liao?",
+    "answer": "Liao Liao berada di lantai LG, unit LG-00."
+  },
+  {
+    "question": "Di mana lokasi Gohan-Ku?",
+    "answer": "Gohan-Ku berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Cheers?",
+    "answer": "Cheers berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Wicked Pies?",
+    "answer": "Wicked Pies berada di lantai L2, unit K-12A."
+  },
+  {
+    "question": "Di mana lokasi Chickenbir?",
+    "answer": "Chickenbir berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Koi Cafe?",
+    "answer": "Koi Cafe berada di lantai L1, unit L1-92."
+  },
+  {
+    "question": "Di mana lokasi Gijeog?",
+    "answer": "Gijeog berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Lastige?",
+    "answer": "Lastige berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Relix?",
+    "answer": "Relix berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi RicaRico?",
+    "answer": "RicaRico berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Roemah Djamoe?",
+    "answer": "Roemah Djamoe berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Royce Chocolate?",
+    "answer": "Royce Chocolate berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Sweet Coco?",
+    "answer": "Sweet Coco berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Chiju?",
+    "answer": "Chiju berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Gado Gado Gang Kancil?",
+    "answer": "Gado Gado Gang Kancil berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Santong Kuotieh 68?",
+    "answer": "Santong Kuotieh 68 berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi SeaGo?",
+    "answer": "SeaGo berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Wafflecious?",
+    "answer": "Wafflecious berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Waroeng Teh Kotjok?",
+    "answer": "Waroeng Teh Kotjok berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Nam Heong?",
+    "answer": "Nam Heong berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Stulokal?",
+    "answer": "Stulokal berada di lantai 2F."
+  },
+  {
+    "question": "Di mana lokasi Foot Locker?",
+    "answer": "Foot Locker berada di lantai Ground Floor."
+  },
+  {
+    "question": "Di mana lokasi Take Barli?",
+    "answer": "Take Barli berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Looklab?",
+    "answer": "Looklab berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Moja Photobooth?",
+    "answer": "Moja Photobooth berada di lantai 2F."
+  },
+  {
+    "question": "Di mana lokasi Pika Piku?",
+    "answer": "Pika Piku berada di lantai 2F."
+  },
+  {
+    "question": "Di mana lokasi Rawon (Kantin Warning)?",
+    "answer": "Rawon (Kantin Warning) berada di lantai BS."
+  },
+  {
+    "question": "Di mana lokasi Jeji Chewy Puff?",
+    "answer": "Jeji Chewy Puff berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi After Friday?",
+    "answer": "After Friday berada di lantai GF, unit GF-116."
+  },
+  {
+    "question": "Di mana lokasi Ohana Dental Clinic?",
+    "answer": "Ohana Dental Clinic berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Ocean 8?",
+    "answer": "Ocean 8 berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Heavenly Wang?",
+    "answer": "Heavenly Wang berada di lantai LG, unit LG-163."
+  },
+  {
+    "question": "Di mana lokasi ZHENGDA?",
+    "answer": "ZHENGDA berada di lantai LG, unit LG-155."
+  },
+  {
+    "question": "Di mana lokasi AYAM PENYET BANDUNG?",
+    "answer": "AYAM PENYET BANDUNG berada di lantai B, unit B-KN-06."
+  },
+  {
+    "question": "Di mana lokasi KWETIAW SAPI JANGKUNG?",
+    "answer": "KWETIAW SAPI JANGKUNG berada di lantai LG, unit LG-138."
+  },
+  {
+    "question": "Di mana lokasi Yogost x Lonteh?",
+    "answer": "Yogost x Lonteh berada di lantai LG, unit LG-K-08C."
+  },
+  {
+    "question": "Di mana lokasi KANTIN MIE AYAM?",
+    "answer": "KANTIN MIE AYAM berada di lantai B, unit B-KN-18."
+  },
+  {
+    "question": "Di mana lokasi Driver Junior?",
+    "answer": "Driver Junior berada di lantai L2, unit L2-K-15."
+  },
+  {
+    "question": "Di mana lokasi PANORAMA?",
+    "answer": "PANORAMA berada di lantai LG, unit LG-120."
+  },
+  {
+    "question": "Di mana lokasi Smiggle?",
+    "answer": "Smiggle berada di lantai UG."
+  },
+  {
+    "question": "Di mana lokasi Kantin 88?",
+    "answer": "Kantin 88 berada di lantai B, unit B-KN-10."
+  },
+  {
+    "question": "Di mana lokasi Kantin The Anggi?",
+    "answer": "Kantin The Anggi berada di lantai B, unit B-KN-15."
+  },
+  {
+    "question": "Di mana lokasi Kantin Kokom?",
+    "answer": "Kantin Kokom berada di lantai B, unit B-KN-04."
+  },
+  {
+    "question": "Di mana lokasi Rawon Ibu Nofy?",
+    "answer": "Rawon Ibu Nofy berada di lantai B, unit B-KN-19."
+  },
+  {
+    "question": "Di mana lokasi Kantin Cooking Mama?",
+    "answer": "Kantin Cooking Mama berada di lantai B, unit B-KN-08."
+  },
+  {
+    "question": "Di mana lokasi KANTIN PADANG?",
+    "answer": "KANTIN PADANG berada di lantai B, unit B-KN-05."
+  },
+  {
+    "question": "Di mana lokasi KANTIN AYAM PRESTO BU GURU?",
+    "answer": "KANTIN AYAM PRESTO BU GURU berada di lantai B, unit B-KN-11."
+  },
+  {
+    "question": "Di mana lokasi Izakaiyo?",
+    "answer": "Izakaiyo berada di lantai GF, unit GF-56."
+  },
+  {
+    "question": "Di mana lokasi Madcoco?",
+    "answer": "Madcoco berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Harvest Good?",
+    "answer": "Harvest Good berada di lantai UG."
+  },
+  {
+    "question": "Di mana lokasi Kiina Art Studio?",
+    "answer": "Kiina Art Studio berada di lantai L2, unit L2-76B."
+  },
+  {
+    "question": "Di mana lokasi ANAKU EDUCARE?",
+    "answer": "ANAKU EDUCARE berada di lantai B, unit B-13."
+  },
+  {
+    "question": "Di mana lokasi Kantin Sehat?",
+    "answer": "Kantin Sehat berada di lantai B, unit B-KN-09."
+  },
+  {
+    "question": "Di mana lokasi HANWHA LIFE?",
+    "answer": "HANWHA LIFE berada di lantai GF, unit GF-97."
+  },
+  {
+    "question": "Di mana lokasi Infinite EO?",
+    "answer": "Infinite EO berada di lantai GF, unit AreaBundaran Atrium 2 dpn Zara."
+  },
+  {
+    "question": "Di mana lokasi Leonards Pastry?",
+    "answer": "Leonards Pastry berada di lantai LG, unit LG-K-23."
+  },
+  {
+    "question": "Di mana lokasi Provaliant (EO)?",
+    "answer": "Provaliant (EO) berada di lantai GF, unit Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Provaliant (EO)?",
+    "answer": "Provaliant (EO) berada di lantai GF, unit Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Provaliant (EO)?",
+    "answer": "Provaliant (EO) berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Provaliant (EO)?",
+    "answer": "Provaliant (EO) berada di lantai GF, unit Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Liven?",
+    "answer": "Liven berada di lantai 1F."
+  },
+  {
+    "question": "Di mana lokasi Gamchi?",
+    "answer": "Gamchi berada di lantai LG, unit LG-K-20TA."
+  },
+  {
+    "question": "Di mana lokasi GBI?",
+    "answer": "GBI berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi GO!Market (EO)?",
+    "answer": "GO!Market (EO) berada di lantai P3, unit SkyGarden."
+  },
+  {
+    "question": "Di mana lokasi Kina Art Studio?",
+    "answer": "Kina Art Studio berada di lantai 2F."
+  },
+  {
+    "question": "Di mana lokasi TOMORO COFFEE?",
+    "answer": "TOMORO COFFEE berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Milky Way?",
+    "answer": "Milky Way berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Dhype?",
+    "answer": "Dhype berada di lantai 1F."
+  },
+  {
+    "question": "Di mana lokasi Kids & Beyond?",
+    "answer": "Kids & Beyond berada di lantai LG, unit LG-118."
+  },
+  {
+    "question": "Di mana lokasi King Valet?",
+    "answer": "King Valet berada di lantai G."
+  },
+  {
+    "question": "Di mana lokasi Medialink (EO)?",
+    "answer": "Medialink (EO) berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Medialink (EO)?",
+    "answer": "Medialink (EO) berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Nozawa Bakery Atelier?",
+    "answer": "Nozawa Bakery Atelier berada di lantai LG, unit LG-K-19TA."
+  },
+  {
+    "question": "Di mana lokasi LMP Vendor?",
+    "answer": "LMP Vendor berada di lantai Other."
+  },
+  {
+    "question": "Di mana lokasi LMP Vendor?",
+    "answer": "LMP Vendor berada di lantai Other."
+  },
+  {
+    "question": "Di mana lokasi LMP Vendor?",
+    "answer": "LMP Vendor berada di lantai Other."
+  },
+  {
+    "question": "Di mana lokasi LMP Vendor?",
+    "answer": "LMP Vendor berada di lantai Other."
+  },
+  {
+    "question": "Di mana lokasi Kwetiaw Jangkung?",
+    "answer": "Kwetiaw Jangkung berada di lantai LG, unit LG-138."
+  },
+  {
+    "question": "Di mana lokasi Erha Ultimate?",
+    "answer": "Erha Ultimate berada di lantai LG, unit LG-67."
+  },
+  {
+    "question": "Di mana lokasi Oshusan?",
+    "answer": "Oshusan berada di lantai LG."
+  },
+  {
+    "question": "Di mana lokasi Michie?",
+    "answer": "Michie berada di lantai L1, unit L1 61-62."
+  },
+  {
+    "question": "Di mana lokasi Blackmores?",
+    "answer": "Blackmores berada di lantai LG, unit LG-CO-01m."
+  },
+  {
+    "question": "Di mana lokasi Success Academy?",
+    "answer": "Success Academy berada di lantai B, unit B-05&06."
+  },
+  {
+    "question": "Di mana lokasi Onelux?",
+    "answer": "Onelux berada di lantai GF, unit GF-33A."
+  },
+  {
+    "question": "Di mana lokasi Holiday Holiday with Tayo & Poli?",
+    "answer": "Holiday Holiday with Tayo & Poli berada di lantai GF, unit Grand Central."
+  },
+  {
+    "question": "Di mana lokasi Kantin Bu Yuni?",
+    "answer": "Kantin Bu Yuni berada di lantai B, unit B-KN-09."
+  },
+  {
+    "question": "Di mana lokasi Amazing Express?",
+    "answer": "Amazing Express berada di lantai L2, unit L2-K-17."
+  },
+  {
+    "question": "Di mana lokasi Tales Of Clara?",
+    "answer": "Tales Of Clara berada di lantai LG, unit LG-126."
+  },
+  {
+    "question": "Di mana lokasi Gigi Dental Clinic?",
+    "answer": "Gigi Dental Clinic berada di lantai LG, unit LG-02."
+  },
+  {
+    "question": "Di mana lokasi Yuire?",
+    "answer": "Yuire berada di lantai L1, unit L1-60."
+  },
+  {
+    "question": "Di mana lokasi Tiga Production?",
+    "answer": "Tiga Production berada di lantai L2, unit L2-68."
+  },
+  {
+    "question": "Di mana lokasi Mie Tarik Medan?",
+    "answer": "Mie Tarik Medan berada di lantai LG, unit LG-135L."
+  },
+  {
+    "question": "Di mana lokasi Kobuge?",
+    "answer": "Kobuge berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi K Streat?",
+    "answer": "K Streat berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Pempek Nusantara?",
+    "answer": "Pempek Nusantara berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Bakmi 57?",
+    "answer": "Bakmi 57 berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Bak Kut Teh?",
+    "answer": "Bak Kut Teh berada di lantai L1."
+  },
+  {
+    "question": "Di mana lokasi Prize Spot Palo?",
+    "answer": "Prize Spot Palo berada di lantai LG, unit LG-162."
+  },
+  {
+    "question": "Di mana lokasi Glamify?",
+    "answer": "Glamify berada di lantai LG, unit LG-87."
+  },
+  {
+    "question": "Di mana lokasi Glamify?",
+    "answer": "Glamify berada di lantai GF, unit GF Atrium 2 dpn Pull&Bear."
+  },
+  {
+    "question": "Di mana lokasi Glamify?",
+    "answer": "Glamify berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Poken Rice?",
+    "answer": "Poken Rice berada di lantai LG, unit LG-139."
+  },
+  {
+    "question": "Di mana lokasi Wimpy CraftStore?",
+    "answer": "Wimpy CraftStore berada di lantai L2, unit L2-63A."
+  },
+  {
+    "question": "Di mana lokasi Fami Cafe?",
+    "answer": "Fami Cafe berada di lantai LG, unit LG-IA-02."
+  },
+  {
+    "question": "Di mana lokasi Charles Jourdan?",
+    "answer": "Charles Jourdan berada di lantai UG, unit UG-K-05."
+  },
+  {
+    "question": "Di mana lokasi Mi Store?",
+    "answer": "Mi Store berada di lantai L1, unit L1-87."
+  },
+  {
+    "question": "Di mana lokasi Flying Tiger?",
+    "answer": "Flying Tiger berada di lantai GF, unit GF-31."
+  },
+  {
+    "question": "Di mana lokasi Fogo Brazillian BBQ?",
+    "answer": "Fogo Brazillian BBQ berada di lantai GF, unit GF-10B."
+  },
+  {
+    "question": "Di mana lokasi Superamen?",
+    "answer": "Superamen berada di lantai L2, unit L2-STO-02."
+  },
+  {
+    "question": "Di mana lokasi Sushi-Ya?",
+    "answer": "Sushi-Ya berada di lantai LG, unit LG-15B."
+  },
+  {
+    "question": "Di mana lokasi Gion Sushi?",
+    "answer": "Gion Sushi berada di lantai L1, unit L1-55."
+  },
+  {
+    "question": "Di mana lokasi YAOYAO?",
+    "answer": "YAOYAO berada di lantai GF, unit GF-110."
+  },
+  {
+    "question": "Di mana lokasi Otomotif Honda & Datsun?",
+    "answer": "Otomotif Honda & Datsun berada di lantai GF, unit GF-97."
+  },
+  {
+    "question": "Di mana lokasi Sorcery & Lucielle?",
+    "answer": "Sorcery & Lucielle berada di lantai UG, unit UG-K-08A."
+  },
+  {
+    "question": "Di mana lokasi Skincara?",
+    "answer": "Skincara berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Bruhnice?",
+    "answer": "Bruhnice berada di lantai L2, unit L2-K-19."
+  },
+  {
+    "question": "Di mana lokasi Sakumini?",
+    "answer": "Sakumini berada di lantai L1, unit L1-K-09."
+  },
+  {
+    "question": "Di mana lokasi Puro Clinic?",
+    "answer": "Puro Clinic berada di lantai L2, unit L2-10."
+  },
+  {
+    "question": "Di mana lokasi Goryeojib?",
+    "answer": "Goryeojib berada di lantai LG, unit LG-71."
+  },
+  {
+    "question": "Di mana lokasi Kawara Yakiniku?",
+    "answer": "Kawara Yakiniku berada di lantai LG, unit LG-153."
+  },
+  {
+    "question": "Di mana lokasi Dust Jeans?",
+    "answer": "Dust Jeans berada di lantai GF, unit GF Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Thirty Bumbu by Chop Buntut?",
+    "answer": "Thirty Bumbu by Chop Buntut berada di lantai GF, unit GF - 116 O/S."
+  },
+  {
+    "question": "Di mana lokasi Larusso?",
+    "answer": "Larusso berada di lantai UG, unit 73."
+  },
+  {
+    "question": "Di mana lokasi Larusso?",
+    "answer": "Larusso berada di lantai GF, unit GF Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Jackson Shoes?",
+    "answer": "Jackson Shoes berada di lantai GF, unit GF Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Fei Duck?",
+    "answer": "Fei Duck berada di lantai L1, unit L1-03."
+  },
+  {
+    "question": "Di mana lokasi Don Bakeshop?",
+    "answer": "Don Bakeshop berada di lantai LG, unit LG-K-07A."
+  },
+  {
+    "question": "Di mana lokasi Origani?",
+    "answer": "Origani berada di lantai GF, unit GF-10 A OS."
+  },
+  {
+    "question": "Di mana lokasi BugaTea?",
+    "answer": "BugaTea berada di lantai LG, unit LG-K-21TA."
+  },
+  {
+    "question": "Di mana lokasi Ruang Pelayanan Publik Ditjen Ahu?",
+    "answer": "Ruang Pelayanan Publik Ditjen Ahu berada di lantai GF, unit GF-99."
+  },
+  {
+    "question": "Di mana lokasi JKT Go Dog Park?",
+    "answer": "JKT Go Dog Park berada di lantai GF, unit GF-11 O/S."
+  },
+  {
+    "question": "Di mana lokasi BMW Eurokars?",
+    "answer": "BMW Eurokars berada di lantai GF, unit GF-118."
+  },
+  {
+    "question": "Di mana lokasi Ebiga?",
+    "answer": "Ebiga berada di lantai LG, unit LG-166."
+  },
+  {
+    "question": "Di mana lokasi Earth?",
+    "answer": "Earth berada di lantai LG, unit LG-65."
+  },
+  {
+    "question": "Di mana lokasi Ramen Ya & Sushi Ya?",
+    "answer": "Ramen Ya & Sushi Ya berada di lantai LG, unit LG-15."
+  },
+  {
+    "question": "Di mana lokasi Luuca Indonesia?",
+    "answer": "Luuca Indonesia berada di lantai LG, unit K-10TA."
+  },
+  {
+    "question": "Di mana lokasi One Works Salon?",
+    "answer": "One Works Salon berada di lantai L2, unit L2 - 79B - L2 - 79C."
+  },
+  {
+    "question": "Di mana lokasi Event Zoophoria?",
+    "answer": "Event Zoophoria berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Momo Paradise?",
+    "answer": "Momo Paradise berada di lantai L2, unit L2 - 56 - 58."
+  },
+  {
+    "question": "Di mana lokasi Hydra Billiard?",
+    "answer": "Hydra Billiard berada di lantai UG, unit UG-95."
+  },
+  {
+    "question": "Di mana lokasi HairBrain?",
+    "answer": "HairBrain berada di lantai L2, unit L2-06."
+  },
+  {
+    "question": "Di mana lokasi Ayam Geprek Pusaka Abadi?",
+    "answer": "Ayam Geprek Pusaka Abadi berada di lantai LG, unit LG-136."
+  },
+  {
+    "question": "Di mana lokasi Yong Kang TCM?",
+    "answer": "Yong Kang TCM berada di lantai L2, unit L2-16&17."
+  },
+  {
+    "question": "Di mana lokasi GANEYA?",
+    "answer": "GANEYA berada di lantai LG, unit LG-162."
+  },
+  {
+    "question": "Di mana lokasi Ikinari Steak?",
+    "answer": "Ikinari Steak berada di lantai GF, unit GF-129."
+  },
+  {
+    "question": "Di mana lokasi Sura?",
+    "answer": "Sura berada di lantai L2, unit L2-73, 75)."
+  },
+  {
+    "question": "Di mana lokasi Glow and Go?",
+    "answer": "Glow and Go berada di lantai  LG, unit LG-22K."
+  },
+  {
+    "question": "Di mana lokasi Sour Sally Green?",
+    "answer": "Sour Sally Green berada di lantai L2, unit L2-80."
+  },
+  {
+    "question": "Di mana lokasi Ortholife?",
+    "answer": "Ortholife berada di lantai L2, unit L2-k-03."
+  },
+  {
+    "question": "Di mana lokasi Udders Ice Cream?",
+    "answer": "Udders Ice Cream berada di lantai L1, unit L1-K-03."
+  },
+  {
+    "question": "Di mana lokasi Seven Kingdoms?",
+    "answer": "Seven Kingdoms berada di lantai GF, unit GF-73."
+  },
+  {
+    "question": "Di mana lokasi SpongeBob?",
+    "answer": "SpongeBob berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Happippang?",
+    "answer": "Happippang berada di lantai LG, unit LG-K-09TA."
+  },
+  {
+    "question": "Di mana lokasi Fujin Beauty?",
+    "answer": "Fujin Beauty berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Macanria?",
+    "answer": "Macanria berada di lantai L1, unit L1-K-02A."
+  },
+  {
+    "question": "Di mana lokasi Panlandwoo?",
+    "answer": "Panlandwoo berada di lantai UG, unit UG-K-08A."
+  },
+  {
+    "question": "Di mana lokasi Photoism?",
+    "answer": "Photoism berada di lantai L2, unit L2-63B."
+  },
+  {
+    "question": "Di mana lokasi Monster Curry?",
+    "answer": "Monster Curry berada di lantai L1, unit L1-101."
+  },
+  {
+    "question": "Di mana lokasi Nitori?",
+    "answer": "Nitori berada di lantai l2, unit L2-21A."
+  },
+  {
+    "question": "Di mana lokasi Teazzi?",
+    "answer": "Teazzi berada di lantai L1, unit L1-K-02D."
+  },
+  {
+    "question": "Di mana lokasi Fish Village?",
+    "answer": "Fish Village berada di lantai GF, unit GF-127."
+  },
+  {
+    "question": "Di mana lokasi Oma Elly?",
+    "answer": "Oma Elly berada di lantai LG, unit LG-K15."
+  },
+  {
+    "question": "Di mana lokasi Sate Babi Ngotot?",
+    "answer": "Sate Babi Ngotot berada di lantai LG, unit LG-137."
+  },
+  {
+    "question": "Di mana lokasi Gabby Doll House | 24 Okt - 3 Nov?",
+    "answer": "Gabby Doll House | 24 Okt - 3 Nov berada di lantai GF, unit Atrium 2."
+  },
+  {
+    "question": "Di mana lokasi Kuma-Chan Onsen?",
+    "answer": "Kuma-Chan Onsen berada di lantai L1, unit L1-52."
+  },
+  {
+    "question": "Di mana lokasi Sushi Roe?",
+    "answer": "Sushi Roe berada di lantai L1, unit L1-K-01D."
+  },
+  {
+    "question": "Di mana lokasi Kam Roast?",
+    "answer": "Kam Roast berada di lantai LG, unit LG-80."
+  },
+  {
+    "question": "Di mana lokasi Azurr?",
+    "answer": "Azurr berada di lantai GF, unit GF-118."
+  },
+  {
+    "question": "Di mana lokasi Karofi?",
+    "answer": "Karofi berada di lantai L2, unit L2 - K07."
+  },
+  {
+    "question": "Di mana lokasi OH!SOME?",
+    "answer": "OH!SOME berada di lantai LG, unit LG-85."
+  },
+  {
+    "question": "Di mana lokasi Scholl?",
+    "answer": "Scholl berada di lantai UG, unit UG-30."
+  },
+  {
+    "question": "Di mana lokasi Nama Donut?",
+    "answer": "Nama Donut berada di lantai LG, unit LG-K-08."
+  },
+  {
+    "question": "Di mana lokasi COS Luxe Bags&Co?",
+    "answer": "COS Luxe Bags&Co berada di lantai L1, unit L1-K-09B."
+  },
+  {
+    "question": "Di mana lokasi Kettler & Arena?",
+    "answer": "Kettler & Arena berada di lantai LG, unit LG-100."
+  },
+  {
+    "question": "Di mana lokasi Sillyco?",
+    "answer": "Sillyco berada di lantai L2, unit L2-K02."
+  },
+  {
+    "question": "Di mana lokasi Playtopia Sports?",
+    "answer": "Playtopia Sports berada di lantai L2, unit L2-21B."
+  },
+  {
+    "question": "Di mana lokasi 7 Datuak?",
+    "answer": "7 Datuak berada di lantai LG, unit LG-108."
+  },
+  {
+    "question": "Di mana lokasi Warung Kuning (Warning)?",
+    "answer": "Warung Kuning (Warning) berada di lantai BS."
+  },
+  {
+    "question": "Di mana lokasi House of LittleBunny?",
+    "answer": "House of LittleBunny berada di lantai UG, unit UG-K-09E."
+  },
+  {
+    "question": "Di mana lokasi Mala Kitchen?",
+    "answer": "Mala Kitchen berada di lantai LG, unit LG-20A."
+  },
+  {
+    "question": "Di mana lokasi Nanyang Dhasifu?",
+    "answer": "Nanyang Dhasifu berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Roomi?",
+    "answer": "Roomi berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Klesis Bocilos?",
+    "answer": "Klesis Bocilos berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Bacon & Sons?",
+    "answer": "Bacon & Sons berada di lantai GF."
+  },
+  {
+    "question": "Di mana lokasi Hologram Zoo?",
+    "answer": "Hologram Zoo berada di lantai L2."
+  },
+  {
+    "question": "Di mana lokasi Tang Huo Kung Fu Hot Pot?",
+    "answer": "Tang Huo Kung Fu Hot Pot berada di lantai L2, unit L2-81."
+  },
+  {
+    "question": "Di mana lokasi WakaiGO?",
+    "answer": "WakaiGO berada di lantai UG."
+  },
+  {
+    "question": "Di mana lokasi Wetzel's Pretzels?",
+    "answer": "Wetzel's Pretzels berada di lantai LG, unit LG - 73B."
+  },
+  {
+    "question": "Di mana lokasi Devon Cafe?",
+    "answer": "Devon Cafe berada di lantai GF, unit GF-68."
+  },
+  {
+    "question": "Di mana lokasi Tomorrow World (EO)?",
+    "answer": "Tomorrow World (EO) berada di lantai GF, unit Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Gulu Jus?",
+    "answer": "Gulu Jus berada di lantai LG, unit LG."
+  },
+  {
+    "question": "Di mana lokasi BNS Hype?",
+    "answer": "BNS Hype berada di lantai GF, unit Atrium 1."
+  },
+  {
+    "question": "Di mana lokasi Insta factory?",
+    "answer": "Insta factory berada di lantai L2, unit 66A."
+  },
+  {
+    "question": "Di mana lokasi Yescci?",
+    "answer": "Yescci berada di lantai Upper Ground."
+  },
+  {
+    "question": "Di mana lokasi Clash of Collectibles?",
+    "answer": "Clash of Collectibles berada di lantai UG, unit LG-132."
+  },
+  {
+    "question": "Di mana lokasi Doux Dolce?",
+    "answer": "Doux Dolce berada di lantai L1, unit K-05."
+  },
+  {
+    "question": "Di mana lokasi Samyukga?",
+    "answer": "Samyukga berada di lantai Ground Floor, unit 130."
+  }
+]

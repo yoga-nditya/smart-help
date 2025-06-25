@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Customer - Join Room</title>
+</head>
+<body>
+  <h2>Customer - Join Video Chat</h2>
+  Room ID: <input id="roomId" value="room1">
+  <button onclick="joinRoom()">Join</button><br><br>
+
+  <video id="localVideo" autoplay muted playsinline></video>
+  <video id="remoteVideo" autoplay playsinline></video><br><br>
+
+  <h4>Chat</h4>
+  <textarea id="chat" rows="10" cols="50" readonly></textarea><br>
+  <input id="chatInput" placeholder="Type message...">
+  <button onclick="sendChat()">Send</button>
+
+<script>
+let pc, ws;
+
+function joinRoom() {
+  const roomId = document.getElementById("roomId").value;
+  ws = new WebSocket(`ws://${location.host}/ws/${roomId}`);
+
+  ws.onmessage = async event => {
+    const msg = JSON.parse(event.data);
+
+    if (msg.type === "offer") {
+      await pc.setRemoteDescription(new RTCSessionDescription(msg.offer));
+      const answer = await pc.createAnswer();
+      await pc.setLocalDescription(answer);
+      ws.send(JSON.stringify({ type: "answer", answer: pc.localDescription }));
+
+    } else if (msg.type === "answer") {
+      await pc.setRemoteDescription(new RTCSessionDescription(msg.answer));
+
+    } else if (msg.type === "candidate") {
+      await pc.addIceCandidate(new RTCIceCandidate(msg.candidate));
+
+    } else if (msg.type === "chat") {
+      document.getElementById("chat").value += "[Remote] " + msg.text + "\n";
+    }
+  };
+
+  ws.onopen = () => startWebRTC();
+}
+
+function sendChat() {
+  const text = document.getElementById("chatInput").value;
+  document.getElementById("chat").value += "[Me] " + text + "\n";
+  ws.send(JSON.stringify({ type: "chat", text }));
+  document.getElementById("chatInput").value = "";
+}
+
+function startWebRTC() {
+  pc = new RTCPeerConnection();
+
+  navigator.mediaDevices.getUserMedia({ video: true, audio: true }).then(async stream => {
+    document.getElementById("localVideo").srcObject = stream;
+    stream.getTracks().forEach(track => pc.addTrack(track, stream));
+
+    const offer = await pc.createOffer();
+    await pc.setLocalDescription(offer);
+    ws.send(JSON.stringify({ type: "offer", offer }));
+
+    pc.onicecandidate = e => {
+      if (e.candidate) {
+        ws.send(JSON.stringify({ type: "candidate", candidate: e.candidate }));
+      }
+    };
+
+    pc.ontrack = e => {
+      document.getElementById("remoteVideo").srcObject = e.streams[0];
+    };
+  });
+}
+</script>
+</body>
+</html>

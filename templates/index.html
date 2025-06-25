@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Asisten Suara</title>
+</head>
+<body>
+  <h2>Asisten Suara</h2>
+  <button onclick="startRecording()">🎤 Mulai Bicara</button>
+  <p id="status">Status: Diam</p>
+  <p id="answer"></p>
+  <audio id="player" controls></audio>
+
+  <script>
+  let mediaRecorder;
+  let chunks = [];
+
+  async function startRecording() {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    mediaRecorder = new MediaRecorder(stream); // default: audio/webm
+    mediaRecorder.start();
+    document.getElementById("status").innerText = "Merekam...";
+
+    mediaRecorder.ondataavailable = function(e) {
+      chunks.push(e.data);
+    };
+
+    mediaRecorder.onstop = function() {
+      const blob = new Blob(chunks, { type: "audio/webm" }); // JANGAN pakai 'audio/wav'
+      chunks = [];
+      uploadAudio(blob);
+    };
+
+    setTimeout(() => {
+      mediaRecorder.stop();
+      document.getElementById("status").innerText = "Mengirim audio...";
+    }, 4000); // 4 detik rekaman
+  }
+
+  async function uploadAudio(blob) {
+    const formData = new FormData();
+    formData.append("file", blob, "record.webm"); // pakai .webm agar sesuai format
+
+    const response = await fetch("/upload-audio/", {
+      method: "POST",
+      body: formData
+    });
+
+    const data = await response.json();
+    if (data.answer) {
+      document.getElementById("answer").innerText = "Jawaban: " + data.answer;
+      document.getElementById("player").src = data.audio_url;
+    } else {
+      document.getElementById("answer").innerText = "Gagal mengenali audio.";
+      console.error(data);
+    }
+  }
+</script>
+</body>
+</html>

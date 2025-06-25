@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Agent</title>
+</head>
+<body>
+  <h2>Agent Video & Chat</h2>
+  <video id="local" autoplay muted></video>
+  <video id="remote" autoplay></video>
+  <div>
+    <input id="msg" placeholder="Chat here" />
+    <button onclick="sendChat()">Send</button>
+  </div>
+  <div id="chatlog"></div>
+
+  <script>
+    const roomId = "88558"; // Sesuaikan dengan UserRoleId agent
+    const ws = new WebSocket("wss://webrtc.lippomallpuri.com/ws/available-rooms?client_id=0J2V8eVuDdl&client_secret=V42IoWXAas5mdfSole5Q6RJFZHQ7dhci");
+    let pc = new RTCPeerConnection();
+
+    ws.onopen = () => {
+      ws.send(JSON.stringify({ type: "room_join", UserRoleId: roomId }));
+    };
+
+    ws.onmessage = async e => {
+      const data = JSON.parse(e.data);
+
+      if (data.type === "offer") {
+        await pc.setRemoteDescription(new RTCSessionDescription(data));
+        const stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true });
+        stream.getTracks().forEach(t => pc.addTrack(t, stream));
+        document.getElementById("local").srcObject = stream;
+
+        const answer = await pc.createAnswer();
+        await pc.setLocalDescription(answer);
+        ws.send(JSON.stringify({ type: "answer", sdp: answer.sdp, room: roomId }));
+      } else if (data.type === "candidate") {
+        pc.addIceCandidate(new RTCIceCandidate(data.candidate));
+      } else if (data.type === "chat") {
+        document.getElementById("chatlog").innerHTML += `<div>Customer: ${data.message}</div>`;
+      }
+    };
+
+    pc.onicecandidate = event => {
+      if (event.candidate) {
+        ws.send(JSON.stringify({ type: "candidate", candidate: event.candidate, room: roomId }));
+      }
+    };
+
+    pc.ontrack = e => {
+      document.getElementById("remote").srcObject = e.streams[0];
+    };
+
+    function sendChat() {
+      const msg = document.getElementById("msg").value;
+      ws.send(JSON.stringify({ type: "chat", message: msg, room: roomId }));
+      document.getElementById("chatlog").innerHTML += `<div>You: ${msg}</div>`;
+      document.getElementById("msg").value = "";
+    }
+  </script>
+</body>
+</html>
