@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+venv/
+.git/
+.gitignore
+.idea/
+.vscode/
+dist/
+build/
+ssl/*.key
+ssl/*.pem
