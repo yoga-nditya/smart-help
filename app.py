@@ -30,7 +30,7 @@ class ConnectionManager:
             target_id = self.sessions.get(sender_id)
             target_ws = self.agents.get(target_id)
         else:
-            # dapatkan semua customer yg disambungkan ke agent
+            
             target_id = message.get("to")
             target_ws = self.customers.get(target_id)
         

@@ -20,14 +20,15 @@ client_agent = "0J2V8eVuDdl"
 secretekey_agent = "V42IoWXAas5mdfSole5Q6RJFZHQ7dhci"
 
 
-listcors = ['https://localhost','https://webrtc.lippomallpuri.com','http://localhost','http://10.141.42.31','https://10.141.42.31']
+listcors = ['https://localhost','https://webrtc.lippomallpuri.com','http://localhost','http://10.141.42.31','https://10.141.42.31','https://10.141.42.164','https://tenant.lippomallpuri.com','https://tenant.lippomallpuri.com/smarthelp/','https://smarthelp.lippomallpuri.com']
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
     allow_origins=listcors,
     allow_credentials=True,
     allow_methods=["*"],
-    allow_headers=["*"]
+    allow_headers=["*"],
+    expose_headers=["*"]
 )
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
