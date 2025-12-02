@@ -177,6 +177,7 @@ async def monitor_status(websocket: WebSocket):
 async def index(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
+# API 
 @app.get("/sendtext/{text}")
 async def get_sendtext(text: str):
     try:
