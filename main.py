@@ -178,18 +178,15 @@ async def index(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
 @app.get("/sendtext/{text}")
-async def get_sendtext (text : str,client_key: str = Header(..., alias="client-key"),
-    signature_key: str = Header(..., alias="signature-key"),
-    requesttimestamp: str = Header(..., alias="requesttimestamp")):
-    if not is_valid_signature_v2(client_key, signature_key, requesttimestamp):
-        return JSONResponse(status_code=403, content={"code": 1, "answer": "Unauthorized"})
+async def get_sendtext(text: str):
     try:
         tenant_data = load_tenant_data_from_api()
         corpus, metadata = build_corpus(tenant_data)
         answer = jawab_pertanyaan(text, corpus, metadata, model)
-        return JSONResponse({"code": 0 ,"answer": answer})
+        return JSONResponse({"code": 0, "answer": answer})
     except Exception as e:
-        return JSONResponse({"code": 1 ,"answer": str(e)})
+        return JSONResponse({"code": 1, "answer": str(e)})
+
 
 
 # @app.post("/upload-audio/")
