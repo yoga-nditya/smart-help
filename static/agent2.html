@@ -1,36 +1,186 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Agent</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Agent Video Chat</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+    
+    body {
+      font-family: 'Manrope', sans-serif;
+    }
+    
+    .video-container {
+      height: calc(100vh - 220px);
+    }
+    
+    @media (max-width: 1024px) {
+      .video-container {
+        height: auto;
+      }
+    }
+    
+    .chat-popup {
+      position: fixed;
+      bottom: 6rem;
+      right: 50%;
+      transform: translateX(50%);
+      width: 22.5rem;
+      height: 500px;
+      z-index: 50;
+    }
+    
+    @media (min-width: 1024px) {
+      .chat-popup {
+        top: 50%;
+        transform: translate(50%, -50%);
+        height: 400px;
+      }
+    }
+    
+    .rotate-45 {
+      transform: rotate(45deg);
+    }
+    
+    .send-icon:hover {
+      transform: rotate(45deg) translate(0.25rem, -0.125rem);
+    }
+  </style>
 </head>
-<body>
-  <h2>Agent Video & Chat</h2>
-  <video id="local" autoplay muted></video>
-  <video id="remote" autoplay></video>
-  <div>
-    <input id="msg" placeholder="Chat here" />
-    <button onclick="sendChat()">Send</button>
+<body class="bg-black text-white">
+  
+  <!-- Main Container -->
+  <div id="app" class="min-h-screen flex flex-col">
+    
+    <!-- Call View (Always Visible for Agent) -->
+    <div id="callView" class="flex-1 bg-gradient-to-br from-slate-800 via-slate-900 to-blue-900 relative flex items-center justify-center">
+      
+      <!-- Video Grid -->
+      <div class="relative w-full max-w-6xl grid grid-cols-1 gap-6 lg:static lg:grid-cols-2 lg:px-6 lg:mb-12 video-container">
+        
+        <!-- Remote Video (Customer) - Left -->
+        <div class="relative rounded-2xl overflow-hidden shadow-2xl bg-slate-800 border border-slate-700">
+          <video id="remote" autoplay class="w-full h-full object-cover"></video>
+          
+          <div id="waitingPlaceholder" class="absolute inset-0 flex items-center justify-center bg-slate-800">
+            <div class="text-center">
+              <div class="text-8xl mb-4">👤</div>
+              <p class="text-slate-400 text-lg">Menunggu Customer...</p>
+            </div>
+          </div>
+          
+          <div class="absolute bottom-4 left-4 bg-slate-900/80 backdrop-blur-sm px-4 py-2 rounded-lg border border-slate-700">
+            <p class="text-sm font-medium text-white">Customer</p>
+          </div>
+        </div>
+        
+        <!-- Local Video (Agent) - Right / Bottom Corner on Mobile -->
+        <div class="absolute w-1/3 h-1/3 right-2 bottom-2 rounded-2xl overflow-hidden shadow-2xl bg-slate-800 border border-slate-700 lg:static lg:w-auto lg:h-auto">
+          <video id="local" autoplay muted class="w-full h-full object-cover"></video>
+          
+          <div class="absolute bottom-4 left-4 bg-slate-900/80 backdrop-blur-sm px-4 py-2 rounded-lg border border-slate-700">
+            <p class="text-sm font-medium text-white">You (Agent)</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Bottom Control Bar -->
+      <div class="absolute bottom-0 left-0 right-0 bg-slate-900/95 backdrop-blur-md border-t border-slate-700">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-center">
+          <div class="flex items-center gap-4">
+            <!-- End Call Button -->
+            <button id="endCallBtn" class="bg-red-600 hover:bg-red-700 px-3 py-3 rounded-full font-semibold text-base transition-all shadow-lg hover:shadow-xl">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 8l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2M5 3a2 2 0 00-2 2v1c0 8.284 6.716 15 15 15h1a2 2 0 002-2v-3.28a1 1 0 00-.684-.948l-4.493-1.498a1 1 0 00-1.21.502l-1.13 2.257a11.042 11.042 0 01-5.516-5.517l2.257-1.128a1 1 0 00.502-1.21L9.228 3.683A1 1 0 008.279 3H5z"/>
+              </svg>
+            </button>
+            
+            <!-- Chat Toggle Button -->
+            <button id="chatToggleBtn" class="relative bg-blue-600 hover:bg-blue-700 p-3 rounded-full transition-all shadow-lg">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
+              </svg>
+              <span id="chatBadge" class="hidden absolute -top-1 -right-1 bg-red-500 text-white text-xs w-5 h-5 items-center justify-center rounded-full">0</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Chat Popup -->
+    <div id="chatPopup" class="hidden chat-popup bg-slate-900 rounded-2xl shadow-2xl border border-slate-700 flex-col">
+      <!-- Chat Header -->
+      <div class="bg-slate-800 px-4 py-3 rounded-t-2xl border-b border-slate-700 flex items-center justify-between">
+        <h3 class="font-semibold text-base">Chat</h3>
+        <button id="closeChatBtn" class="text-slate-400 hover:text-white transition-colors">
+          <svg class="w-5 h-5 cursor-pointer" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+      
+      <!-- Chat Messages -->
+      <div id="chatlog" class="flex-1 overflow-y-auto p-4 space-y-3">
+        <div class="text-center text-slate-500 mt-8">
+          <svg class="w-12 h-12 mx-auto mb-2 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
+          </svg>
+          <p class="text-sm">No messages yet</p>
+        </div>
+      </div>
+      
+      <!-- Chat Input -->
+      <div class="p-4 border-t border-slate-700">
+        <div class="flex gap-2 relative">
+          <input id="msg" placeholder="Type a message..." class="flex-1 px-4 py-2 rounded-full bg-slate-800 text-white border border-slate-700 focus:outline-none focus:border-blue-500 transition-colors"/>
+          <button id="sendChatBtn" disabled class="absolute right-2 top-1/2 -translate-y-1/2 hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed p-2 rounded-full transition-all">
+            <svg class="w-4 h-4 rotate-45 send-icon transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+    
   </div>
-  <div id="chatlog"></div>
 
   <script>
     const roomId = "88558"; // Sesuaikan dengan UserRoleId agent
     const ws = new WebSocket("wss://webrtc.lippomallpuri.com/ws/available-rooms?client_id=0J2V8eVuDdl&client_secret=V42IoWXAas5mdfSole5Q6RJFZHQ7dhci");
     let pc = new RTCPeerConnection();
+    let chatMessages = [];
+    let remoteConnected = false;
+    
+    // DOM Elements
+    const localVideo = document.getElementById('local');
+    const remoteVideo = document.getElementById('remote');
+    const endCallBtn = document.getElementById('endCallBtn');
+    const chatToggleBtn = document.getElementById('chatToggleBtn');
+    const chatPopup = document.getElementById('chatPopup');
+    const closeChatBtn = document.getElementById('closeChatBtn');
+    const chatlog = document.getElementById('chatlog');
+    const msgInput = document.getElementById('msg');
+    const sendChatBtn = document.getElementById('sendChatBtn');
+    const chatBadge = document.getElementById('chatBadge');
+    const waitingPlaceholder = document.getElementById('waitingPlaceholder');
 
+    // WebSocket handlers
     ws.onopen = () => {
+      console.log("WebSocket connected");
       ws.send(JSON.stringify({ type: "room_join", UserRoleId: roomId }));
     };
 
     ws.onmessage = async e => {
       const data = JSON.parse(e.data);
+      console.log("WebSocket message:", data);
 
       if (data.type === "offer") {
         await pc.setRemoteDescription(new RTCSessionDescription(data));
         const stream = await navigator.mediaDevices.getUserMedia({ video: true, audio: true });
         stream.getTracks().forEach(t => pc.addTrack(t, stream));
-        document.getElementById("local").srcObject = stream;
+        localVideo.srcObject = stream;
 
         const answer = await pc.createAnswer();
         await pc.setLocalDescription(answer);
@@ -38,7 +188,7 @@
       } else if (data.type === "candidate") {
         pc.addIceCandidate(new RTCIceCandidate(data.candidate));
       } else if (data.type === "chat") {
-        document.getElementById("chatlog").innerHTML += `<div>Customer: ${data.message}</div>`;
+        addChatMessage(`Customer: ${data.message}`, false);
       }
     };
 
@@ -49,14 +199,103 @@
     };
 
     pc.ontrack = e => {
-      document.getElementById("remote").srcObject = e.streams[0];
+      remoteVideo.srcObject = e.streams[0];
+      remoteConnected = true;
+      waitingPlaceholder.classList.add('hidden');
+      remoteVideo.classList.remove('opacity-30');
+      remoteVideo.classList.add('opacity-100');
     };
 
+    // Button handlers
+    endCallBtn.addEventListener('click', () => {
+      pc.getSenders().forEach(sender => {
+        if (sender.track) sender.track.stop();
+      });
+      pc.close();
+      ws.close();
+      
+      [localVideo, remoteVideo].forEach(video => {
+        if (video.srcObject) {
+          video.srcObject.getTracks().forEach(track => track.stop());
+          video.srcObject = null;
+        }
+      });
+      
+      window.location.href = '/';
+    });
+    
+    chatToggleBtn.addEventListener('click', () => {
+      chatPopup.classList.toggle('hidden');
+      chatPopup.classList.toggle('flex');
+    });
+    
+    closeChatBtn.addEventListener('click', () => {
+      chatPopup.classList.add('hidden');
+      chatPopup.classList.remove('flex');
+    });
+    
+    msgInput.addEventListener('input', (e) => {
+      sendChatBtn.disabled = !e.target.value.trim();
+    });
+    
+    msgInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter' && msgInput.value.trim()) {
+        sendChat();
+      }
+    });
+    
+    sendChatBtn.addEventListener('click', sendChat);
+    
     function sendChat() {
-      const msg = document.getElementById("msg").value;
+      const msg = msgInput.value.trim();
+      if (!msg) return;
+      
       ws.send(JSON.stringify({ type: "chat", message: msg, room: roomId }));
-      document.getElementById("chatlog").innerHTML += `<div>You: ${msg}</div>`;
-      document.getElementById("msg").value = "";
+      addChatMessage(`You: ${msg}`, true);
+      msgInput.value = "";
+      sendChatBtn.disabled = true;
+    }
+    
+    function addChatMessage(message, isYou) {
+      chatMessages.push({ message, isYou });
+      updateChatLog();
+      updateChatBadge();
+    }
+    
+    function updateChatLog() {
+      if (chatMessages.length === 0) {
+        chatlog.innerHTML = `
+          <div class="text-center text-slate-500 mt-8">
+            <svg class="w-12 h-12 mx-auto mb-2 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/>
+            </svg>
+            <p class="text-sm">No messages yet</p>
+          </div>
+        `;
+      } else {
+        chatlog.innerHTML = chatMessages.map(({message, isYou}) => {
+          const text = message.substring(message.indexOf(':') + 1).trim();
+          return `
+            <div class="flex ${isYou ? 'justify-end' : 'justify-start'}">
+              <div class="max-w-[75%] px-4 py-2 rounded-2xl ${isYou ? 'bg-blue-600 text-white rounded-br-sm' : 'bg-slate-800 text-white rounded-bl-sm'}">
+                <p class="text-sm break-words">${text}</p>
+              </div>
+            </div>
+          `;
+        }).join('');
+        chatlog.scrollTop = chatlog.scrollHeight;
+      }
+    }
+    
+    function updateChatBadge() {
+      if (chatMessages.length > 0) {
+        chatBadge.classList.remove('hidden');
+        chatBadge.classList.add('flex');
+        chatBadge.textContent = chatMessages.length;
+      } else {
+        chatBadge.classList.add('hidden');
+        chatBadge.classList.remove('flex');
+      }
     }
   </script>
 </body>
